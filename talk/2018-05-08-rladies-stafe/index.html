@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P7YHKYHRQP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P7YHKYHRQP');
+</script>
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Dr Melina Vidoni">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="This is a summary of the talks and workshops I have prepared for R-Ladies Santa Fe chapter. Some of them are Workshops, others are basic presentations. All of them were presented in Spanish.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/talk/2018-05-08-rladies-stafe/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/atelier-cave-light.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/atelier-cave-light.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.42114800f200292e1697f1e9861a67d2.css">
+
+  
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/css/academic.d7e680c15f7f974408240bf1846f50f6.css">
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/talk/2018-05-08-rladies-stafe/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@melvidoni">
+  <meta property="twitter:creator" content="@melvidoni">
+  
+  <meta property="og:site_name" content="Dr Melina Vidoni">
+  <meta property="og:url" content="/talk/2018-05-08-rladies-stafe/">
+  <meta property="og:title" content="R-Ladies: Talks &amp; Workshops | Dr Melina Vidoni">
+  <meta property="og:description" content="This is a summary of the talks and workshops I have prepared for R-Ladies Santa Fe chapter. Some of them are Workshops, others are basic presentations. All of them were presented in Spanish."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2018-06-01T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2018-06-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>R-Ladies: Talks &amp; Workshops | Dr Melina Vidoni</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Dr Melina Vidoni</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/service/"><span>Experience & Service</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/students/"><span>Students</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+
+        
+
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <div class="pub" itemscope itemtype="http://schema.org/Event">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">R-Ladies: Talks &amp; Workshops</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2018-06-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2018-06-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/melina-vidoni/">Melina Vidoni</a></span>
+
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/talk/2018-05-08-rladies-stafe/&amp;text=R-Ladies:%20Talks%20&amp;amp;%20Workshops" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/talk/2018-05-08-rladies-stafe/&amp;t=R-Ladies:%20Talks%20&amp;amp;%20Workshops" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=R-Ladies:%20Talks%20&amp;amp;%20Workshops&amp;body=/talk/2018-05-08-rladies-stafe/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/talk/2018-05-08-rladies-stafe/&amp;title=R-Ladies:%20Talks%20&amp;amp;%20Workshops" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=R-Ladies:%20Talks%20&amp;amp;%20Workshops%20/talk/2018-05-08-rladies-stafe/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/talk/2018-05-08-rladies-stafe/&amp;title=R-Ladies:%20Talks%20&amp;amp;%20Workshops" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">This is a summary of the talks and workshops I have prepared for R-Ladies Santa Fe chapter. Some of them are Workshops, others are basic presentations. All of them were presented in Spanish.</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            
+            Jun 1, 2018
+            <div class="talk-time">
+              
+                12:00 AM
+                
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://www.meetup.com/rladies-santa-fe/" target="_blank" rel="noopener">
+            R-Ladies Santa Fe Meetings
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      <h2 id="20180601-first-meetup">2018/06/01: First Meetup</h2>
+<p>Introduction to R-Ladies and first meetup of the chapter. I introduced what is R, its history, how R-Ladies came to be, its structure and goals, and set up some time to network among the new members.</p>
+<p><a href="https://www.meetup.com/es/rladies-santa-fe/events/250907258/">Meetup Page</a> | <a href="https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/01-Junio/Slides%20-%20Bienvenida%20a%20R-Ladies%20Santa%20Fe.pdf">PDF Slides</a> | <a href="https://www.youtube.com/watch?v=0NGJ7w7mSdQ">Video Recording</a></p>
+<br />
+<h2 id="20180704-r-for-data-science-from-scratch">2018/07/04: R for Data Science From Scratch</h2>
+<p>This was a practical workshop of 2.5hs, based on the book <a href="https://bookdown.org/rdpeng/rprogdatascience/">&ldquo;R Programming for Data Science&rdquo;</a> by Roger Peng. It started with the basics, such as <em>what is a variable</em>, and we made some very basic plots using <code>ggplot2</code>. The idea was to introduce the members to programming, as most of them came from diverse backgrounds and had never programmed before.</p>
+<p><a href="https://www.meetup.com/es/rladies-santa-fe/events/251896964/">Meetup Page</a> | <a href="https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/03-Julio/Slides-TallerR.pdf">PDF Slides</a> | Video Recording <a href="https://www.youtube.com/watch?v=WFtJ5K4XAWY">Part 1</a> &amp; <a href="https://www.youtube.com/watch?v=L0uR1q9QN9c">Part 2</a></p>
+
+
+
+<figure>
+
+<img src="/img/talks/2018-rladies-1.jpg" />
+
+
+</figure>
+<br />
+<h2 id="20180907-the-r-ladies-initiative">2018/09/07: The R-Ladies Initiative</h2>
+<p>This was presented at the <a href="http://www.sociedadeconomiacritica.org/proximas-jec/xi-jec-primera-circular/">XI Jornadas de Economía Crítica</a>. I was personally invited by Dr. Marianela Sarabia to give this talk.</p>
+<p>Introducing what R-Ladies is, how it is organized, how it works in Santa Fe, and different contributions made on others chapters. I was personally invited to give this talk by Dr. Marianela Sarabia, in order to introduce R-Ladies to conference&rsquo;s attendees.&quot;</p>
+<p><a href="https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/05-Septiembre/JEC/Presentaci%C3%B3n_RLadies_JEC.pdf">PDF Slides</a></p>
+<br />
+<h2 id="20180911-basic-machine-learning-algorithms-in-r">2018/09/11: Basic Machine Learning Algorithms in R</h2>
+<p>Introducing three basic Machine Learning Algorithms in R: Classification and Regression Trees, Association Rules and Clustering. The venue was Santa Fe Activa, a venue for local enterpreuneurs, which I secured through negotiations with the Secretary of Small Enterprises from Santa Fe City. The 2.5hs long workshop included explanations about the algorithms, live coding and exercises to solve as &ldquo;homework&rdquo;.</p>
+<p><a href="https://www.meetup.com/es/rladies-santa-fe/events/252804555/">Meetup Page</a> | <a href="https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/05-Septiembre/Algoritmos_ML.pdf">PDF Slides</a> | <a href="https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/05-Septiembre/TallerR-MachineLearning-Scripts.rar">R Scripts</a> | <a href="https://www.youtube.com/watch?v=KLtCOeqineM">Video Recording</a></p>
+
+
+
+<figure>
+
+<img src="/img/talks/2018-rladies-2.jpg" />
+
+
+</figure>
+
+    </div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/r/">R</a>
+  
+  <a class="badge badge-light" href="/tags/data-science/">data-science</a>
+  
+  <a class="badge badge-light" href="/tags/r-ladies/">R-Ladies</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/melina-vidoni/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
+
+      
+
+    
+    
+    
+    <script src="/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/yaml.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/java.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/css.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/javascript.min.js"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    <script src="/js/academic.min.4489e571d9126f92e2756dbaee988691.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    © Melina Vidoni 2021 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
