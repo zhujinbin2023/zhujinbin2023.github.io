@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amharic | Hate Alert</title>
+    <link>/tags/amharic/</link>
+      <atom:link href="/tags/amharic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amharic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Amharic</title>
+      <link>/tags/amharic/</link>
+    </image>
+    
+    <item>
+      <title>Social Network Hate Speech Detection for Amharic Language</title>
+      <link>/publication/mossie2018social/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mossie2018social/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

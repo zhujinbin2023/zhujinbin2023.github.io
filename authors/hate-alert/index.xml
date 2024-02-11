@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hate Alert</title>
+    <link>/authors/hate-alert/</link>
+      <atom:link href="/authors/hate-alert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hate Alert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Mon, 27 Mar 2023 08:30:00 +0000</lastBuildDate>
+    <item>
+      <title>Hate speech: Detection, Mitigation and Beyond @WSDM</title>
+      <link>/talk/wsdm_tutorial/</link>
+      <pubDate>Mon, 27 Mar 2023 08:30:00 +0000</pubDate>
+      <guid>/talk/wsdm_tutorial/</guid>
+      <description>&lt;h3 id=&#34;important-updates&#34;&gt;Important updates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides can be  
+&lt;a href=&#34;WSDM_2023_Tutorial.pdf&#34;&gt;found here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video of the tutorial can be 
+&lt;a href=&#34;&#34;&gt;found here&lt;/a&gt;!!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;contributions-and-achievements&#34;&gt;Contributions and achievements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Our papers are accepted in &lt;strong&gt;top conferences/journals&lt;/strong&gt; like PNAS, NeurIPS, LREC, AAAI, IJCAI, WWW, ECML-PKDD, CSCW, ICWSM, HyperText and WebSci. Link to the papers 
+&lt;a href=&#34;../../tags/our-papers/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;We have &lt;strong&gt;open sourced&lt;/strong&gt; our codes and datasets under a single github organisation - 
+&lt;a href=&#34;https://github.com/hate-alert&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hate-alert&lt;/a&gt; for the future research in this domain&lt;/li&gt;
+&lt;li&gt;We have stored different &lt;strong&gt;transformers models&lt;/strong&gt; in 
+&lt;a href=&#34;https://huggingface.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;huggingface.co&lt;/a&gt;. Link to 
+&lt;a href=&#34;https://huggingface.co/Hate-speech-CNERG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert organisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dataset&lt;/strong&gt; from our recent accepted paper in AAAI - &lt;em&gt;&amp;ldquo;Hatexplain:A Benchmark Dataset for Explainable Hate Speech Detection&amp;rdquo;&lt;/em&gt; is also stored in the 
+&lt;a href=&#34;https://huggingface.co/datasets/hatexplain&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;huggingface datsets forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;We also participate in several hate speech shared tasks, winning many of them - 
+&lt;a href=&#34;https://ods.ai/competitions/urdu-hack-soc2021/leaderboard/private&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert@URDU_SOC&lt;/a&gt;,
+&lt;a href=&#34;https://www.aclweb.org/anthology/2021.dravidianlangtech-1.17.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert@DLTEACL&lt;/a&gt;, 
+&lt;a href=&#34;http://personales.upv.es/prosso/resources/FersiniEtAl_Evalita18.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hateminers@AMI&lt;/a&gt;, 
+&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3368567.3368584&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatemonitors@HASOC&lt;/a&gt; and coming under 1% in 
+&lt;a href=&#34;https://www.drivendata.org/competitions/70/hateful-memes-phase-2/leaderboard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert@Hatememe detection&lt;/a&gt; by Facebook AI.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.notion.so/punyajoy/Hate-speech-papers-resource-7fc20fa1bea64cbdb30862092ae197b3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notion page&lt;/a&gt; containing hate speech papers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorial-outline&#34;&gt;Tutorial Outline&lt;/h3&gt;
+&lt;p&gt;Outline of the Tutorial&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction (25 mins)&lt;/li&gt;
+&lt;li&gt;Analysis (40 mins)
+&lt;ol&gt;
+&lt;li&gt;Prevalence of hate speech.&lt;/li&gt;
+&lt;li&gt;Targets of hate speech.&lt;/li&gt;
+&lt;li&gt;Effects of hate speech.&lt;/li&gt;
+&lt;li&gt;Effect of offline events.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Detection (40 mins)
+&lt;ol&gt;
+&lt;li&gt;Summary of different datasets.
+&lt;ol&gt;
+&lt;li&gt;Unimodal.&lt;/li&gt;
+&lt;li&gt;Multimodal.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Earlier detection models.&lt;/li&gt;
+&lt;li&gt;Current detection models .&lt;/li&gt;
+&lt;li&gt;Multimodal and multilingual hate speech.&lt;/li&gt;
+&lt;li&gt;Challenge.
+&lt;ol&gt;
+&lt;li&gt;Evaluation.&lt;/li&gt;
+&lt;li&gt;Explainability.&lt;/li&gt;
+&lt;li&gt;Bias.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Mitigation (40 mins).
+&lt;ol&gt;
+&lt;li&gt;Counterspeech campaigns.&lt;/li&gt;
+&lt;li&gt;Banning and suspending users.&lt;/li&gt;
+&lt;li&gt;Counterspeech detection.&lt;/li&gt;
+&lt;li&gt;Counterspeech generation.&lt;/li&gt;
+&lt;li&gt;Effect of counter speech.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Demo (15 mins).&lt;/li&gt;
+&lt;li&gt;Future Challenge (10 mins).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;about-the-organizers&#34;&gt;&lt;strong&gt;About the Organizers&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Punyajoy Saha&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interests lies in the nexus of social computing and natural language processing. More about him can be found 
+&lt;a href=&#34;https://punyajoy.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Binny Mathew&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interest lies in computational social science and natural language processing. More about him can be found 
+&lt;a href=&#34;https://binny-mathew.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mithun Das&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interests lie in computational social science and natural language processing. More about him can be found 
+&lt;a href=&#34;https://das-mithun.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Animesh Mukherjee&lt;/strong&gt; is an Associate Professor at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interest lies in natural language processing, information retrieval and AI and ethics. More about him can be found 
+&lt;a href=&#34;https://cse.iitkgp.ac.in/~animeshm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hate speech: Detection, Mitigation and Beyond @AAAI</title>
+      <link>/talk/aaai_tutorial/</link>
+      <pubDate>Wed, 23 Feb 2022 22:00:00 +0530</pubDate>
+      <guid>/talk/aaai_tutorial/</guid>
+      <description>&lt;h3 id=&#34;important-updates&#34;&gt;Important updates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides can be  
+&lt;a href=&#34;Tutorial_AAAI_2022.pdf&#34;&gt;found here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;contributions-and-achievements&#34;&gt;Contributions and achievements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Our papers are accepted in &lt;strong&gt;top conferences&lt;/strong&gt; like AAAI, WWW, CSCW, ICWSM, WebSci. Link to the papers 
+&lt;a href=&#34;../../tags/our-papers/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;We have &lt;strong&gt;open sourced&lt;/strong&gt; our codes and datasets under a single github organisation - 
+&lt;a href=&#34;https://github.com/hate-alert&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hate-alert&lt;/a&gt; for the future research in this domain&lt;/li&gt;
+&lt;li&gt;We have stored different &lt;strong&gt;transformers models&lt;/strong&gt; in 
+&lt;a href=&#34;https://huggingface.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;huggingface.co&lt;/a&gt;. Link to 
+&lt;a href=&#34;https://huggingface.co/Hate-speech-CNERG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert organisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dataset&lt;/strong&gt; from our recent accepted paper in AAAI - &lt;em&gt;&amp;ldquo;Hatexplain:A Benchmark Dataset for Explainable Hate Speech Detection&amp;rdquo;&lt;/em&gt; is also stored in the 
+&lt;a href=&#34;https://huggingface.co/datasets/hatexplain&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;huggingface datsets forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;We also participate in several hate speech shared tasks, winning many of them - 
+&lt;a href=&#34;https://ods.ai/competitions/urdu-hack-soc2021/leaderboard/private&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert@URDU_SOC&lt;/a&gt;,
+&lt;a href=&#34;https://www.aclweb.org/anthology/2021.dravidianlangtech-1.17.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert@DLTEACL&lt;/a&gt;, 
+&lt;a href=&#34;http://personales.upv.es/prosso/resources/FersiniEtAl_Evalita18.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hateminers@AMI&lt;/a&gt;, 
+&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3368567.3368584&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatemonitors@HASOC&lt;/a&gt; and coming under 1% in 
+&lt;a href=&#34;https://www.drivendata.org/competitions/70/hateful-memes-phase-2/leaderboard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert@Hatememe detection&lt;/a&gt; by Facebook AI.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.notion.so/punyajoy/Hate-speech-papers-resource-7fc20fa1bea64cbdb30862092ae197b3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notion page&lt;/a&gt; containing hate speech papers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorial-outline&#34;&gt;Tutorial Outline&lt;/h3&gt;
+&lt;p&gt;In this &lt;strong&gt;translation style tutorial&lt;/strong&gt;, we present an exposition of hate speech detection and mitigation in three steps. The following section presents a detailed plan for the tutorial:-&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt; (15 min)- This section will cover the scentific interest in hate speech and various definitions of hate speech. This section will help you understand the outline and what to take home from this tutorial.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analysis&lt;/strong&gt; (20 min)- In this section, we analyze the spread of hate speech in online social media platforms like Twitter, Facebook, Gab etc. We observe that hate speech is spreading through online communities at an alarming rate. These hateful users are well connected among themselves and are reaching a wider audience. This case is more severe in moderation free platforms like Gab, Bitchute etc. The targets of such hate vary. These include the Muslims, Jews, Africans etc. This section is further divided into the following parts
+&lt;ol&gt;
+&lt;li&gt;Spread of hate speech&lt;/li&gt;
+&lt;li&gt;Effects of hate speech&lt;/li&gt;
+&lt;li&gt;Targets of hate speech&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Detection&lt;/strong&gt; (20 min)- Hate speech detection is a challenging task. We now have several datasets available based on different criterias language, domain, modalities etc.Several models ranging from simple Bag of Words to complex ones like BERT have been used for the task. The task performance seems to be improving over time, however, there are issues like generalizability, bias and explainability of the models.  This section is further divided into
+&lt;ol&gt;
+&lt;li&gt;Different datasets.&lt;/li&gt;
+&lt;li&gt;Earlier detection models&lt;/li&gt;
+&lt;li&gt;Current detection models (based on transformers)&lt;/li&gt;
+&lt;li&gt;Multimodal and Multilingual hate speech&lt;/li&gt;
+&lt;li&gt;Hate user detection&lt;/li&gt;
+&lt;li&gt;Challenge: Evaluation, Explainability and Bias&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mitigation&lt;/strong&gt; (20 min)- To deter the spread of hate speech, organizations have adopted several policies. These include the general policies like deletion of posts and/or accounts, shadow banning to softer approaches like counterspeech. Policies like banning/deletion seem to be effective in some cases, but there are issues of violation of freedom of speech. Recent research have started looking into automated generation of counterspeech as well.
+&lt;ol&gt;
+&lt;li&gt;Banning and suspending users&lt;/li&gt;
+&lt;li&gt;Counter speech detection&lt;/li&gt;
+&lt;li&gt;Counter speech generation&lt;/li&gt;
+&lt;li&gt;Challenges: Generation pitfalls, Moderation effects&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Road to the future&lt;/strong&gt; (15 min)- We end this tutorial with covering the summary of the challenges and road to the future for hate speech research.
+&lt;ol&gt;
+&lt;li&gt;Summary of challenges&lt;/li&gt;
+&lt;li&gt;Branches and extensions of hate speech.&lt;/li&gt;
+&lt;li&gt;Connections to offline violence.&lt;/li&gt;
+&lt;li&gt;Guidelines for building better dataset.&lt;/li&gt;
+&lt;li&gt;Adapting to newer events and platforms.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;about-the-organizers&#34;&gt;&lt;strong&gt;About the Organizers&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Punyajoy Saha&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interests lies in the nexus of social computing and natural language processing. More about him can be found 
+&lt;a href=&#34;https://punyajoy.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Binny Mathew&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interest lies in computational social science and natural language processing. More about him can be found 
+&lt;a href=&#34;https://binny-mathew.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mithun Das&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interests lie in computational social science and natural language processing. More about him can be found 
+&lt;a href=&#34;https://das-mithun.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Animesh Mukherjee&lt;/strong&gt; is an Associate Professor at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interest lies in natural language processing, information retrieval and AI and ethics. More about him can be found 
+&lt;a href=&#34;https://cse.iitkgp.ac.in/~animeshm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hate speech: Detection, Mitigation and Beyond @ICWSM</title>
+      <link>/talk/icwsm_tutorial/</link>
+      <pubDate>Mon, 07 Jun 2021 18:30:00 +0530</pubDate>
+      <guid>/talk/icwsm_tutorial/</guid>
+      <description>&lt;h3 id=&#34;important-updates&#34;&gt;Important updates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides can be  
+&lt;a href=&#34;Tutorial_ICWSM_2021.pdf&#34;&gt;found here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video of the tutorial can be 
+&lt;a href=&#34;https://www.youtube.com/watch?v=Jnh1G5l47jI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;found here&lt;/a&gt;!!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;contributions-and-achievements&#34;&gt;Contributions and achievements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Our papers are accepted in &lt;strong&gt;top conferences&lt;/strong&gt; like AAAI, WWW, CSCW, ICWSM, WebSci. Link to the papers 
+&lt;a href=&#34;../../tags/our-papers/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;We have &lt;strong&gt;open sourced&lt;/strong&gt; our codes and datasets under a single github organisation - 
+&lt;a href=&#34;https://github.com/hate-alert&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hate-alert&lt;/a&gt; for the future research in this domain&lt;/li&gt;
+&lt;li&gt;We have stored different &lt;strong&gt;transformers models&lt;/strong&gt; in 
+&lt;a href=&#34;https://huggingface.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;huggingface.co&lt;/a&gt;. Link to 
+&lt;a href=&#34;https://huggingface.co/Hate-speech-CNERG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert organisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dataset&lt;/strong&gt; from our recent accepted paper in AAAI - &lt;em&gt;&amp;ldquo;Hatexplain:A Benchmark Dataset for Explainable Hate Speech Detection&amp;rdquo;&lt;/em&gt; is also stored in the 
+&lt;a href=&#34;https://huggingface.co/datasets/hatexplain&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;huggingface datsets forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;We also participate in several hate speech shared tasks, winning many of them - 
+&lt;a href=&#34;https://ods.ai/competitions/urdu-hack-soc2021/leaderboard/private&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert@URDU_SOC&lt;/a&gt;,
+&lt;a href=&#34;https://www.aclweb.org/anthology/2021.dravidianlangtech-1.17.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert@DLTEACL&lt;/a&gt;, 
+&lt;a href=&#34;http://personales.upv.es/prosso/resources/FersiniEtAl_Evalita18.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hateminers@AMI&lt;/a&gt;, 
+&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3368567.3368584&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatemonitors@HASOC&lt;/a&gt; and coming under 1% in 
+&lt;a href=&#34;https://www.drivendata.org/competitions/70/hateful-memes-phase-2/leaderboard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hatealert@Hatememe detection&lt;/a&gt; by Facebook AI.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.notion.so/punyajoy/Hate-speech-papers-resource-7fc20fa1bea64cbdb30862092ae197b3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notion page&lt;/a&gt; containing hate speech papers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorial-outline&#34;&gt;Tutorial Outline&lt;/h3&gt;
+&lt;p&gt;In this &lt;strong&gt;translation style tutorial&lt;/strong&gt;, we present an exposition of hate speech detection and mitigation in three steps. The following section presents a detailed plan for the tutorial:-&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt; (15 min)- This section will cover the scentific interest in hate speech and various definitions of hate speech. This section will help you understand the outline and what to take home from this tutorial.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analysis&lt;/strong&gt; (20 min)- In this section, we analyze the spread of hate speech in online social media platforms like Twitter, Facebook, Gab etc. We observe that hate speech is spreading through online communities at an alarming rate. These hateful users are well connected among themselves and are reaching a wider audience. This case is more severe in moderation free platforms like Gab, Bitchute etc. The targets of such hate vary. These include the Muslims, Jews, Africans etc. This section is further divided into the following parts
+&lt;ol&gt;
+&lt;li&gt;Spread of hate speech&lt;/li&gt;
+&lt;li&gt;Effects of hate speech&lt;/li&gt;
+&lt;li&gt;Targets of hate speech&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Detection&lt;/strong&gt; (20 min)- Hate speech detection is a challenging task. We now have several datasets available based on different criterias language, domain, modalities etc.Several models ranging from simple Bag of Words to complex ones like BERT have been used for the task. The task performance seems to be improving over time, however, there are issues like generalizability, bias and explainability of the models.
+&lt;ol&gt;
+&lt;li&gt;Different datasets. This section is further divided into&lt;/li&gt;
+&lt;li&gt;Earlier detection models&lt;/li&gt;
+&lt;li&gt;Current detection models (based on transformers)&lt;/li&gt;
+&lt;li&gt;Multimodal and Multilingual hate speech&lt;/li&gt;
+&lt;li&gt;Hate user detection&lt;/li&gt;
+&lt;li&gt;Challenge: Evaluation, Explainability and Bias&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mitigation&lt;/strong&gt; (20 min)- To deter the spread of hate speech, organizations have adopted several policies. These include the general policies like deletion of posts and/or accounts, shadow banning to softer approaches like counterspeech. Policies like banning/deletion seem to be effective in some cases, but there are issues of violation of freedom of speech. Recent research have started looking into automated generation of counterspeech as well.
+&lt;ol&gt;
+&lt;li&gt;Banning and suspending users&lt;/li&gt;
+&lt;li&gt;Counter speech detection&lt;/li&gt;
+&lt;li&gt;Counter speech generation&lt;/li&gt;
+&lt;li&gt;Challenges: Generation pitfalls, Moderation effects&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Road to the future&lt;/strong&gt; (15 min)- We end this tutorial with covering the summary of the challenges and road to the future for hate speech research.
+&lt;ol&gt;
+&lt;li&gt;Summary of challenges&lt;/li&gt;
+&lt;li&gt;Branches and extensions of hate speech.&lt;/li&gt;
+&lt;li&gt;Connections to offline violence.&lt;/li&gt;
+&lt;li&gt;Guidelines for building better dataset.&lt;/li&gt;
+&lt;li&gt;Adapting to newer events and platforms.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;about-the-organizers&#34;&gt;&lt;strong&gt;About the Organizers&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Punyajoy Saha&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interests lies in the nexus of social computing and natural language processing. More about him can be found 
+&lt;a href=&#34;https://punyajoy.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Binny Mathew&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interest lies in computational social science and natural language processing. More about him can be found 
+&lt;a href=&#34;https://binny-mathew.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mithun Das&lt;/strong&gt; is a PhD scholar at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interests lie in computational social science and natural language processing. More about him can be found 
+&lt;a href=&#34;https://das-mithun.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pawan Goyal&lt;/strong&gt; is an Associate Professor at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interest lies in natural language processing and text mining. More about him can be found 
+&lt;a href=&#34;https://cse.iitkgp.ac.in/~pawang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kiran Garimella&lt;/strong&gt; is the first IDSS postdoctoral fellow to receive a Hammer Fellowship, pioneers research into the spread of rumors and misinformation on closed platforms such as WhatsApp, a popular encrypted messaging service with millions of users worldwide. More about him can be found 
+&lt;a href=&#34;https://users.ics.aalto.fi/kiran/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Animesh Mukherjee&lt;/strong&gt; is an Associate Professor at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur (India). His research interest lies in natural language processing, information retrieval and AI and ethics. More about him can be found 
+&lt;a href=&#34;https://cse.iitkgp.ac.in/~animeshm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis</title>
+      <link>/project/analysis/</link>
+      <pubDate>Wed, 03 Mar 2021 00:29:04 +0530</pubDate>
+      <guid>/project/analysis/</guid>
+      <description>&lt;p&gt;We analyze the spread of hate speech in online social media platforms like Twitter, Facebook, Gab etc. We observe that hate speech is spreading through online communities at an alarming rate. These hateful users are well connected among themselves and are reaching a wider audience. This case is more severe in moderation free platforms like Gab, Bitchute etc. The targets of such hate vary. These include the Muslims, Jews, Africans etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detection</title>
+      <link>/project/detection/</link>
+      <pubDate>Tue, 03 Mar 2020 00:26:36 +0530</pubDate>
+      <guid>/project/detection/</guid>
+      <description>&lt;p&gt;Hate speech detection is a challenging task. We now have several datasets available based on different criterias language, domain, modalities etc.Several models ranging from simple Bag of Words to complex ones like BERT have been used for the task. The task performance seems to be improving over time, however, there are issues like generalizability, bias and explainability of the models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mitigation</title>
+      <link>/project/mitigation/</link>
+      <pubDate>Sun, 03 Mar 2019 00:29:10 +0530</pubDate>
+      <guid>/project/mitigation/</guid>
+      <description>&lt;p&gt;To deter the spread of hate speech, organizations have adopted several policies. These include the general policies like deletion of posts and/or accounts, shadow banning to softer approaches like counterspeech. Policies like banning/deletion seem to be effective in some cases, but there are issues of violation of freedom of speech. Recent research have started looking into automated generation of counterspeech as well.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

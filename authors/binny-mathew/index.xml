@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Binny Mathew | Hate Alert</title>
+    <link>/authors/binny-mathew/</link>
+      <atom:link href="/authors/binny-mathew/index.xml" rel="self" type="application/rss+xml" />
+    <description>Binny Mathew</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 03 Mar 2021 00:29:04 +0530</lastBuildDate>
+    <item>
+      <title>Analysis</title>
+      <link>/project/analysis/</link>
+      <pubDate>Wed, 03 Mar 2021 00:29:04 +0530</pubDate>
+      <guid>/project/analysis/</guid>
+      <description>&lt;p&gt;We analyze the spread of hate speech in online social media platforms like Twitter, Facebook, Gab etc. We observe that hate speech is spreading through online communities at an alarming rate. These hateful users are well connected among themselves and are reaching a wider audience. This case is more severe in moderation free platforms like Gab, Bitchute etc. The targets of such hate vary. These include the Muslims, Jews, Africans etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detection</title>
+      <link>/project/detection/</link>
+      <pubDate>Tue, 03 Mar 2020 00:26:36 +0530</pubDate>
+      <guid>/project/detection/</guid>
+      <description>&lt;p&gt;Hate speech detection is a challenging task. We now have several datasets available based on different criterias language, domain, modalities etc.Several models ranging from simple Bag of Words to complex ones like BERT have been used for the task. The task performance seems to be improving over time, however, there are issues like generalizability, bias and explainability of the models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mitigation</title>
+      <link>/project/mitigation/</link>
+      <pubDate>Sun, 03 Mar 2019 00:29:10 +0530</pubDate>
+      <guid>/project/mitigation/</guid>
+      <description>&lt;p&gt;To deter the spread of hate speech, organizations have adopted several policies. These include the general policies like deletion of posts and/or accounts, shadow banning to softer approaches like counterspeech. Policies like banning/deletion seem to be effective in some cases, but there are issues of violation of freedom of speech. Recent research have started looking into automated generation of counterspeech as well.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

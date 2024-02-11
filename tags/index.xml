@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Hate Alert</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>counterspeech</title>
+      <link>/tags/counterspeech/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/counterspeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>/tags/english/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generation</title>
+      <link>/tags/generation/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our papers</title>
+      <link>/tags/our-papers/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/our-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abusive language</title>
+      <link>/tags/abusive-language/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/abusive-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection</title>
+      <link>/tags/detection/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Modal</title>
+      <link>/tags/multi-modal/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/multi-modal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indic</title>
+      <link>/tags/indic/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/indic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilingual</title>
+      <link>/tags/multilingual/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/multilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toxic speech</title>
+      <link>/tags/toxic-speech/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/toxic-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toxicity rating</title>
+      <link>/tags/toxicity-rating/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/toxicity-rating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hindi</title>
+      <link>/tags/hindi/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/hindi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>classification</title>
+      <link>/tags/classification/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indo-Aryan</title>
+      <link>/tags/indo-aryan/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/indo-aryan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urdu</title>
+      <link>/tags/urdu/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/urdu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hate speech</title>
+      <link>/tags/hate-speech/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/hate-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hateful users</title>
+      <link>/tags/hateful-users/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/hateful-users/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kannada</title>
+      <link>/tags/kannada/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/kannada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offensive</title>
+      <link>/tags/offensive/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/offensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tamil</title>
+      <link>/tags/tamil/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/tamil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fear speech</title>
+      <link>/tags/fear-speech/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/fear-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge graph</title>
+      <link>/tags/knowledge-graph/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/knowledge-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset</title>
+      <link>/tags/dataset/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explainability</title>
+      <link>/tags/explainability/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/explainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counter speech</title>
+      <link>/tags/counter-speech/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/counter-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vietnamese</title>
+      <link>/tags/vietnamese/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/vietnamese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arabic</title>
+      <link>/tags/arabic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/arabic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bias</title>
+      <link>/tags/bias/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>German</title>
+      <link>/tags/german/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/german/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Racial</title>
+      <link>/tags/racial/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/racial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey</title>
+      <link>/tags/survey/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amharic</title>
+      <link>/tags/amharic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/amharic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indonesian</title>
+      <link>/tags/indonesian/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/indonesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hate crime</title>
+      <link>/tags/hate-crime/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/hate-crime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>/tags/italian/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dutch</title>
+      <link>/tags/dutch/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/dutch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenya</title>
+      <link>/tags/kenya/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/kenya/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
