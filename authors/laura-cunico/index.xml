@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laura Cunico on Dr Jinbin Zhu</title>
+    <link>/authors/laura-cunico/</link>
+    <description>Recent content in Laura Cunico on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Fri, 08 Jul 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/laura-cunico/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On Technical Debt in Mathematical Programming: An Exploratory Study</title>
+      <link>/publication/2022-tdinmath/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-tdinmath/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;Overall, our study uncovered modellers&amp;rsquo; tendency to refactor and polish the final model and use version control and very detailed comments. Nonetheless, we discovered traces of negative practices regarding Code and Documentation Debt (e.g., dead and duplicated code, and outdated or incomplete documentation). We also observed hints that TD appears to be deliberately introduced, with modellers being aware that their practices are not the best&amp;ndash;this seems to align with prior findings related to scientific software practices. We also highlight four future areas of work to continue unveiling what TD means for OR. Finally, although the goal may be ambitious, this paper aspires to stimulate reflective thinking and promote a novel and different line of action and research among OR practitioners in search of two goals. First, achieving better programming habits during model development, and second, approaching SE research in OR programming.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ethics-declarations&#34;&gt;Ethics Declarations&lt;/h2&gt;
+&lt;p&gt;The authors have no relevant financial or non-financial interests to disclose. The authors declare that they have no conflict of interest.&lt;/p&gt;
+&lt;p&gt;The methodology used in this was approved by the ANU Human Ethics Research Committee (HREC), with project code 2020-23416-11101.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;replication-package&#34;&gt;Replication Package&lt;/h3&gt;
+&lt;p&gt;We provide a partial replication package in &lt;a href=&#34;https://doi.org/10.5281/zenodo.6757598&#34;&gt;Zenodo&lt;/a&gt;. It includes the complete survey structure and the email invitation (with the Qualtrics&amp;rsquo; embedded fields). The participant collection sheet used for the convenience sample is shared empty to demonstrate the type of data collected; note that we cannot provide the completed sheet (which included the name, email and affiliation of invited participants) because our Ethical Protocol requires us to preserve participants&amp;rsquo; identity. This is a problem known as the &lt;em&gt;privacy vs utility paradox&lt;/em&gt; (Li et al., 2009), and its study was out of scope for this investigation.&lt;/p&gt;
+&lt;p&gt;As mentioned before, the survey was implemented and distributed in Qualtrics. Qualtrics provides an advanced WYSIWYG (&amp;lsquo;what you see is what you get&amp;rsquo;) editor for results reporting that also provides plots and summarises data. As a result, we used this system to produce the aggregated data. The tables  were generated through Qualtrics, thus, there is no code/script available for this.&lt;/p&gt;
+&lt;p&gt;Finally, some additional plots not included in the manuscript are part of the replication package, showing aggregated, unidentifiable data.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;p&gt;Open Access funding enabled and organized by CAUL and its Member Institutions.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@Article{VidoniCunico2022,
+author={Vidoni, Melina and Cunico, Maria Laura},
+title=&amp;quot;{On Technical Debt in Mathematical Programming: An Exploratory Study}&amp;quot;,
+journal=&amp;quot;{Mathematical Programming Computation}&amp;quot;&amp;quot;,
+year={2022},
+month={Aug},
+day={05},
+issn={1867-2957},
+doi={10.1007/s12532-022-00225-1},
+url={https://link.springer.com/article/10.1007/s12532-022-00225-1}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=19400158592&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=19400158592&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agile Operational Research</title>
+      <link>/publication/2020-agileor/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020-agileor/</guid>
+      <description>&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
+&lt;p&gt;This article analyses the use of SE agility for OR interventions. For this purpose, the characteristics of the main stages of an OR intervention are identified together with the information managed at each stage. This evidences a match between OR interventions and agile lifecycles stages, showing that agility can be applied to project management in OR. This is further elaborated in three-step guidelines, which include selecting a methodology, organising a project, and representing the information in artefacts. Finally, a case study vignette supports the viability of this approach.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;The authors gratefully acknowledge the anonymous reviewers whose comments and suggestions helped improve and clarify this manuscript. Furthermore, authors are especially thankful to Prof Richard Ormerod for his contributions and insight.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@article{VidoniCunico2021,
+author = {Melina Vidoni and Laura Cunico and Aldo Vecchietti},
+title = {Agile operational research},
+journal = {Journal of the Operational Research Society},
+volume = {72},
+number = {6},
+pages = {1221-1235},
+year  = {2021},
+publisher = {Taylor &amp;amp; Francis},
+doi = {10.1080/01605682.2020.1718557},
+URL = {https://doi.org/10.1080/01605682.2020.1718557},
+eprint = {https://doi.org/10.1080/01605682.2020.1718557}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=22236&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=22236&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Empirical Framework to Applying Unit Testing in Operational Research</title>
+      <link>/publication/2018-48cie/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-48cie/</guid>
+      <description>&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@inproceedings{Vidoni2018b,
+  author    = &amp;quot;Melina Vidoni and Laura Cunico and Aldo Vecchietti&amp;quot;,
+  title     = &amp;quot;{An Empirical Framework to Applying Unit Testing in Operational Research}&amp;quot;,
+  booktitle = &amp;quot;48th International Conference on Computers and Industrial Engineering (CIE48)&amp;quot;,
+  year      = &amp;quot;2018&amp;quot;,
+  address   = &amp;quot;Auckland, New Zealand&amp;quot;,
+  issbn     = &amp;quot;2164-8689&amp;quot;,
+  note      = &amp;quot;Code 144541&amp;quot;
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estableciendo las Bases para el Análisis de Datos en la Lotería Chaqueña</title>
+      <link>/publication/2018-loto-conaiisi/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-loto-conaiisi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Los Métodos Ágiles como Propuesta para el Desarrollo de Modelos de Investigación Operativa</title>
+      <link>/publication/2018-vidoni-conaiisi/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-vidoni-conaiisi/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards an Agile Lifecycle in Operation Research Projects</title>
+      <link>/publication/2018-iceis-agile-or/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-iceis-agile-or/</guid>
+      <description>&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@conference{iceis18,
+author={Melina Vidoni. and Maria Laura Cunico. and Aldo Vecchietti.},
+title={Towards an Agile Lifecycle in Operation Research Projects},
+booktitle={Proceedings of the 20th International Conference on Enterprise Information Systems - Volume 1: ICEIS,},
+year={2018},
+pages={432-440},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0006760504320440},
+isbn={978-989-758-298-1},
+issn={2184-4992},
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Una Contribución al Mantenimiento de Modelos en Investigación Operativa desde la Ingeniería del Software</title>
+      <link>/publication/2017-mantenimiento-conaiisi/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-mantenimiento-conaiisi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

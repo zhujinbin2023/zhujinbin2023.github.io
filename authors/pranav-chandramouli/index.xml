@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pranav Chandramouli on Dr Jinbin Zhu</title>
+    <link>/authors/pranav-chandramouli/</link>
+    <description>Recent content in Pranav Chandramouli on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/pranav-chandramouli/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>analyzeR: A SonarQube Plugin for Analyzing Object-Oriented R Packages</title>
+      <link>/publication/2022-sonar/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-sonar/</guid>
+      <description>&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;Therefore, &lt;strong&gt;analyzeR&lt;/strong&gt; was designed to assist with static code analysis on three types of R&amp;rsquo;s OO implementations (S3, S4, and R6) while maintaining a seamless, unique and user-friendly process. It is an expansible SonarQube plugin that can be easily adapted into existing CI environments, and its results can be compared to those offered for other programming languages.&lt;/p&gt;
+&lt;p&gt;The metrics available in &lt;strong&gt;analyzeR&lt;/strong&gt; are the following (release 2022/06): Lines of Code, Number of Public Methods, Number of Fields, Number of Method Calls, Number of Internal Method Calls, Number of External Method Calls, Weighted Methods per Class, Average Method Complexity, Response for a Class, Between Object Classes, Afferent Coupling, Efferent Coupling, Martin&amp;rsquo;s Instability, Lack of Cohesion in Methods, ata  Access Metrics, Number of Private Fields, Number of Private Methods.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;This study is partly supported by the Natural Sciences and Engineering Research Council of Canada , RGPIN-2021-04232 and DGECR-2021-00283 at the University of Saskatchewan.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@article{Chandramouli2022,
+title = &amp;quot;{analyzeR: A SonarQube plugin for analyzing object-oriented R Packages}&amp;quot;,
+journal = {SoftwareX},
+volume = {19},
+pages = {101113},
+year = {2022},
+issn = {2352-7110},
+doi = {https://doi.org/10.1016/j.softx.2022.101113},
+url = {https://www.sciencedirect.com/science/article/pii/S2352711022000747},
+author = {Pranav Chandramouli and Zadia Codabux and Melina Vidoni},
+keywords = {SonarQube, R packages, Static code analysis, Object-oriented, R plugin},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100422153&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100422153&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

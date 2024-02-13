@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicolas Diaz-Ferreyra on Dr Jinbin Zhu</title>
+    <link>/authors/nicolas-diaz-ferreyra/</link>
+    <description>Recent content in Nicolas Diaz-Ferreyra on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/nicolas-diaz-ferreyra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MSR4PS 2022: Proceedings of the 1st International Workshop on Mining Software Repositories Applications for Privacy and Security</title>
+      <link>/publication/2022-msr4ps/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-msr4ps/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;On behalf of the Program Committee, we are pleased to present the proceedings of the 1st International Workshop on Mining Software Repositories for Privacy and Security (MSR4P&amp;amp;S 2022). MSR4P&amp;amp;S is co-located with the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE). This year, because of the Covid-19 pandemic, MSR4P&amp;amp;S (as part of ESEC/FSE) is held virtually with an adapted program that will bring together international researchers to exchange ideas, share experiences, investigate problems, and propose promising solutions concerning the application of Mining Software Repositories (MSR) to investigate the different stages of privacy and security. The workshop topics cover a wide range of MSR applications for cybersecurity research, including empirical and mixed-method approaches, as well as datasets and tools.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;organising-committee-general-chairs&#34;&gt;Organising Committee, General Chairs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Melina Vidoni. Australian National University, School of Computing. Australia.&lt;/li&gt;
+&lt;li&gt;Nicolás Díaz Ferreyra. Hamburg University of Technology, Institute of Software Security. Germany.&lt;/li&gt;
+&lt;li&gt;Zadia Codabux. University of Saskatchewan, Dept. of Computer Science. Canada.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@proceedings{msr4ps2022,
+title = {MSR4P\&amp;amp;S 2022: Proceedings of the 1st International Workshop on Mining Software Repositories Applications for Privacy and Security},
+year = {2022},
+isbn = {978-1-4503-9457-4},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+location = {Singapore, Singapore}
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Should I Get Involved? On the Privacy Perils of Mining Software Repositories for Research Participants</title>
+      <link>/publication/2022-ropes/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-ropes/</guid>
+      <description>&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;This research did not receive any specific grants from funding agencies in the public, commercial, or not-for-profit sectors.&lt;/p&gt;
+&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;
+&lt;p&gt;RoPES	is the 1st International Workshop on Recruitment of Participants for Empirical Software Engineering Studies, co-located with &lt;a href=&#34;https://conf.researchr.org/track/icse-2022/icse-2022-workshops#Accepted-Workshops&#34;&gt;ICSE 2022&lt;/a&gt;. The website is &lt;a href=&#34;https://ropes-workshops.github.io/ropes22/&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;citations&#34;&gt;Citations&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@INPROCEEDINGS{VidoniDiaz2022a,
+author = {M. Vidoni and N. Diaz-Ferreyra},
+booktitle = &amp;quot;{1st International Workshop on Recruiting Participants for Empirical Software Engineering}&amp;quot;,
+title = &amp;quot;{Should I Get Involved? On the Privacy Perils of Mining Software Repositories for Research Participants}&amp;quot;,
+year = {2022},
+pages = {1-3},
+keywords = {Mining software repositories; developers&#39; privacy; ethical considerations; privacy-preserving protocols; indirect participants},
+doi = {},
+publisher = {IEEE Computer Society},
+address = {Pittsburg, USA},
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

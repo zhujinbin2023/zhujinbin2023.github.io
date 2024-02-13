@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iko-ojo Simon on Dr Jinbin Zhu</title>
+    <link>/authors/iko-ojo-simon/</link>
+    <description>Recent content in Iko-ojo Simon on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/iko-ojo-simon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algorithm Debt: Challenges and Future Paths</title>
+      <link>/publication/2023-algodebt/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023-algodebt/</guid>
+      <description>&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@inproceedings{Simon2023,
+author = {Simon, Iko-ojo and Vidoni, Melina and Fard, Fatemeh},
+title = &amp;quot;{Algorithm Debt: Challenges and Future Paths}&amp;quot;,
+year = {2023},
+isbn = {},
+publisher = {Association for Computing Machinery},
+address = {New York, USA},
+doi = {},
+booktitle = &amp;quot;{2nd International Conference on AI Engineering – Software Engineering for AI (CAIN&#39;23)}&amp;quot;,
+pages = {90-91},
+numpages = {12},
+location = {Melbourne, Australia},
+series = {CAIN&#39;23}
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

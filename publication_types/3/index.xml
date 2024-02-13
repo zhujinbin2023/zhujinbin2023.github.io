@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Dr Jinbin Zhu</title>
+    <link>/publication_types/3/</link>
+    <description>Recent content in 3 on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Towards a Taxonomy of Roxygen Documentation in R Packages</title>
+      <link>/publication/2023-rtaxonomy/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023-rtaxonomy/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;This paper contributes to the need for better documentation standards in R programming (Monperrus et al., 2012) by extending prior work in library documentation to the R domain. Our other contributions are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This is the first study conducted to explore and understand R packages documentation practices.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A taxonomy of Roxygen directives for parameters, returns, and description elements. It is structured, including examples (taken from mined GitHub repositories), good practices, and anti-patterns. Our taxonomy is more detailed and complete than Roxygen&amp;rsquo;s own package documentation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An analysis of the documentation directives, discussing frequencies, anti-patterns, and comparatives to existing taxonomies. The `documentation directives&amp;rsquo; are natural-language statements explaining constraints and guidelines about correctly using a piece of code (Monperrus et al., 2012).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We make available an extensive, well-documented replication package. See Data Availability.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@article{Vidoni2023,
+title = &amp;quot;{Towards a Taxonomy of Roxygen Documentation in R Packages}&amp;quot;,
+journal = {Empirical Software Engineering},
+volume = {28},
+pages = {106},
+year = {2023},
+issn = {1573-7616},
+doi = {https://doi.org/10.1007/s10664-023-10345-4},
+author = {Melina Vidoni and Zadia Codabux},
+keywords = {R Programming, Package Documentation, Scientific Software, Documentation Taxonomy},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h2&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=18650&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=18650&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simple Stupid Insecure Practices and GitHub&#39;s Code Search: A Looming Threat?</title>
+      <link>/publication/2023-ssip/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023-ssip/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-results&#34;&gt;Preliminary Results&lt;/h2&gt;
+&lt;p&gt;Our findings reveal that packages on lower versions (such as version zero) are more prone to include SSIPs, and that &amp;ldquo;code injection&amp;rdquo; is the most scattered SSIP. About 20% of the scouted packages had at least one vulnerability, with others representing concerning outliers with high numbers of vulnerabilities. Nevertheless, through a basic combination of regexes and a public list of insecure practices, we highlight that the malicious use of this incoming &amp;ldquo;Code Search&amp;rdquo; engine was straightforward.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@article{Go2023,
+title = {Simple stupid insecure practices and GitHub’s code search: A looming threat?},
+journal = {Journal of Systems and Software},
+volume = {202},
+pages = {111698},
+year = {2023},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/j.jss.2023.111698},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121223000936},
+author = {Ken Russel Go and Sruthi Soundarapandian and Aparupa Mitra and Melina Vidoni and Nicolás E. Díaz Ferreyra},
+keywords = {Python, GitHub code search, Simple stupid insecure practices},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=19309&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=19309&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSR4P&amp;S 2022 Workshop Summary</title>
+      <link>/publication/2023-msr4ps-sen/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023-msr4ps-sen/</guid>
+      <description>&lt;h3 id=&#34;workshop-format&#34;&gt;Workshop Format&lt;/h3&gt;
+&lt;p&gt;MSR4P&amp;amp;S received five submissions (two 8-page full papers and three 4-page short papers) from Canada, the United States, the UK, France, and Norway.  After a thorough peer-review process, all five papers were accepted and given an additional page to incorporate the changes suggested by the reviewers. At least three members of the Program Committee reviewed each submission. The  accepted  papers  cover  various  topics  and  are  divided  into two  main  sessions: &lt;em&gt;assessing privacy through mining software repositories&lt;/em&gt; and &lt;em&gt;using mining software repositories to detect or analyse vulnerabilities&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The workshop proceedings are published by ACM as a co-located event of the 30th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022) &lt;a href=&#34;../2022-msr4ps/&#34;&gt;See Proceedings&lt;/a&gt;. The workshop was held on November 18th, 2022 and  had 45 participants. Due to the SARS-CoV-2 pandemic, the event took place virtually and was organised with this aspect in mind.  The program comprised the opening, one keynote, two presentation sessions, and theclosing. We planned two thematic sessions, &amp;ldquo;Assessing  Privacy&amp;rdquo; and &amp;ldquo;Vulnerabilities&amp;rdquo;, based on the topics addressed by the accepted papers. Each talk of the thematic sessions had fifteen  minutes allocated for the presentation and five minutes for discussions.&lt;/p&gt;
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@article{MSR4PSsummary,
+author = {Vidoni, Melina and D\&#39;{\i}az Ferreyra, Nicol\&#39;{a}s E. and Codabux, Zadia},
+title = {MSR4P\&amp;amp;S 2022 Workshop Summary},
+year = {2023},
+issue_date = {January 2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {48},
+number = {1},
+issn = {0163-5948},
+doi = {10.1145/3573074.3573100},
+journal = {SIGSOFT Softw. Eng. Notes},
+month = {jan},
+pages = {97–100},
+numpages = {4}
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Self-Admitted Technical Debt in R: Detection and Causes</title>
+      <link>/publication/2022-autorsatd/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-autorsatd/</guid>
+      <description>&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This is the first automated detection analysis of SATD in R programming, specifically for R packages.&lt;/li&gt;
+&lt;li&gt;Likewise, PTMs for SATD detection have not been used before.&lt;/li&gt;
+&lt;li&gt;An augmented corpus (from 8 to 16) of plausible causes of SATD,  extracted from 1,345 comments. It expands on previously proposed categories and is publicly shared.&lt;/li&gt;
+&lt;li&gt;The automated detection of 12 types of SATD compared to 5 types in other SATD studies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;This study is partly supported by the Natural Sciences and Engineering Research Council of Canada, RGPIN-2021-04232 and DGECR-2021-00283 at the University of Saskatchewan, and RGPIN-2019-05175 at the University of British Columbia. We thank ANU for the open access support.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@Article{Sharma2022,
+author={Sharma, Rishab
+and Shahbazi, Ramin
+and Fard, Fatemeh H.
+and Codabux, Zadia
+and Vidoni, Melina},
+title=&amp;quot;{Self-Admitted Technical Debt in R: Detection and Causes}&amp;quot;,
+journal={Automated Software Engineering},
+year={2022},
+month={Aug},
+day={25},
+volume={29},
+number={2},
+pages={53},
+issn={1573-7535},
+doi={10.1007/s10515-022-00358-6},
+url={https://doi.org/10.1007/s10515-022-00358-6}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=24145&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=24145&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On Technical Debt in Mathematical Programming: An Exploratory Study</title>
+      <link>/publication/2022-tdinmath/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-tdinmath/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;Overall, our study uncovered modellers&amp;rsquo; tendency to refactor and polish the final model and use version control and very detailed comments. Nonetheless, we discovered traces of negative practices regarding Code and Documentation Debt (e.g., dead and duplicated code, and outdated or incomplete documentation). We also observed hints that TD appears to be deliberately introduced, with modellers being aware that their practices are not the best&amp;ndash;this seems to align with prior findings related to scientific software practices. We also highlight four future areas of work to continue unveiling what TD means for OR. Finally, although the goal may be ambitious, this paper aspires to stimulate reflective thinking and promote a novel and different line of action and research among OR practitioners in search of two goals. First, achieving better programming habits during model development, and second, approaching SE research in OR programming.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ethics-declarations&#34;&gt;Ethics Declarations&lt;/h2&gt;
+&lt;p&gt;The authors have no relevant financial or non-financial interests to disclose. The authors declare that they have no conflict of interest.&lt;/p&gt;
+&lt;p&gt;The methodology used in this was approved by the ANU Human Ethics Research Committee (HREC), with project code 2020-23416-11101.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;replication-package&#34;&gt;Replication Package&lt;/h3&gt;
+&lt;p&gt;We provide a partial replication package in &lt;a href=&#34;https://doi.org/10.5281/zenodo.6757598&#34;&gt;Zenodo&lt;/a&gt;. It includes the complete survey structure and the email invitation (with the Qualtrics&amp;rsquo; embedded fields). The participant collection sheet used for the convenience sample is shared empty to demonstrate the type of data collected; note that we cannot provide the completed sheet (which included the name, email and affiliation of invited participants) because our Ethical Protocol requires us to preserve participants&amp;rsquo; identity. This is a problem known as the &lt;em&gt;privacy vs utility paradox&lt;/em&gt; (Li et al., 2009), and its study was out of scope for this investigation.&lt;/p&gt;
+&lt;p&gt;As mentioned before, the survey was implemented and distributed in Qualtrics. Qualtrics provides an advanced WYSIWYG (&amp;lsquo;what you see is what you get&amp;rsquo;) editor for results reporting that also provides plots and summarises data. As a result, we used this system to produce the aggregated data. The tables  were generated through Qualtrics, thus, there is no code/script available for this.&lt;/p&gt;
+&lt;p&gt;Finally, some additional plots not included in the manuscript are part of the replication package, showing aggregated, unidentifiable data.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;p&gt;Open Access funding enabled and organized by CAUL and its Member Institutions.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@Article{VidoniCunico2022,
+author={Vidoni, Melina and Cunico, Maria Laura},
+title=&amp;quot;{On Technical Debt in Mathematical Programming: An Exploratory Study}&amp;quot;,
+journal=&amp;quot;{Mathematical Programming Computation}&amp;quot;&amp;quot;,
+year={2022},
+month={Aug},
+day={05},
+issn={1867-2957},
+doi={10.1007/s12532-022-00225-1},
+url={https://link.springer.com/article/10.1007/s12532-022-00225-1}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=19400158592&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=19400158592&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>analyzeR: A SonarQube Plugin for Analyzing Object-Oriented R Packages</title>
+      <link>/publication/2022-sonar/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-sonar/</guid>
+      <description>&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;Therefore, &lt;strong&gt;analyzeR&lt;/strong&gt; was designed to assist with static code analysis on three types of R&amp;rsquo;s OO implementations (S3, S4, and R6) while maintaining a seamless, unique and user-friendly process. It is an expansible SonarQube plugin that can be easily adapted into existing CI environments, and its results can be compared to those offered for other programming languages.&lt;/p&gt;
+&lt;p&gt;The metrics available in &lt;strong&gt;analyzeR&lt;/strong&gt; are the following (release 2022/06): Lines of Code, Number of Public Methods, Number of Fields, Number of Method Calls, Number of Internal Method Calls, Number of External Method Calls, Weighted Methods per Class, Average Method Complexity, Response for a Class, Between Object Classes, Afferent Coupling, Efferent Coupling, Martin&amp;rsquo;s Instability, Lack of Cohesion in Methods, ata  Access Metrics, Number of Private Fields, Number of Private Methods.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;This study is partly supported by the Natural Sciences and Engineering Research Council of Canada , RGPIN-2021-04232 and DGECR-2021-00283 at the University of Saskatchewan.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@article{Chandramouli2022,
+title = &amp;quot;{analyzeR: A SonarQube plugin for analyzing object-oriented R Packages}&amp;quot;,
+journal = {SoftwareX},
+volume = {19},
+pages = {101113},
+year = {2022},
+issn = {2352-7110},
+doi = {https://doi.org/10.1016/j.softx.2022.101113},
+url = {https://www.sciencedirect.com/science/article/pii/S2352711022000747},
+author = {Pranav Chandramouli and Zadia Codabux and Melina Vidoni},
+keywords = {SonarQube, R packages, Static code analysis, Object-oriented, R plugin},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100422153&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100422153&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Infinite Technical Debt</title>
+      <link>/publication/2022-itd/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-itd/</guid>
+      <description>&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A new perspective to approach Technical Debt Management to motivate a change of mindset.&lt;/li&gt;
+&lt;li&gt;Interpretation of Technical Debt Management from a Game Theory perspective&lt;/li&gt;
+&lt;li&gt;Proposal of future works based on this new perspective.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;This study is partly supported by the Natural Sciences and Engineering Research Council of Canada, RGPIN-2021-04232 and DGECR-2021-00283 at the University of Saskatchewan, and RGPIN-2019-05175 at the University of British Columbia. The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@article{VCF2022,
+title = &amp;quot;{Infinite Technical Debt}&amp;quot;,
+journal = &amp;quot;{Journal of Systems and Software}&amp;quot;,
+volume = {190},
+pages = {111336},
+year = {2022},
+issn = {0164-1212},
+doi = {10.1016/j.jss.2022.111336},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121222000772},
+author = {Melina Vidoni and Zadia Codabux and Fatemeh H. Fard},
+keywords = {Technical debt, Game theory, Software lifecycles, Software maintenance and evolution},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=19309&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=19309&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Engineering for R Programming &#43; Rejoinder</title>
+      <link>/publication/2022-rjournal/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-rjournal/</guid>
+      <description>&lt;h3 id=&#34;note&#34;&gt;Note&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://dicook.org&#34;&gt;Prof Dianne Cook&lt;/a&gt; invited me to submit this Discussion Article, and I am most grateful to those that participated in it. As mentioned &lt;a href=&#34;https://journal.r-project.org/archive/2021-2/editorial.pdf&#34;&gt;in the Editorial&lt;/a&gt;: &lt;em&gt;&amp;ldquo;There is also a special feature which is the discussion article “Software Engineering
+and R Programming: A Call for Research” by Melina Vidoni, and commentaries from Will
+Landau, Maëlle Salmon, Karthik Ram and Simon Urbanek&amp;rdquo;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors. The author is grateful to both R-Ladies and rOpenSci communities that fostered the interest in this topic and to Prof. Dianne Cook for extending the invitation for this article.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;p&gt;The below is the citation for the &lt;a href=&#34;https://journal.r-project.org/dev/articles/RJ-2021-108/&#34;&gt;main article&lt;/a&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;@article{Vidoni2021rjournal,
+  author = {Melina Vidoni},
+  title = {{Software Engineering and R Programming: A Call for Research}},
+  year = {2021},
+  journal = {{The R Journal}},
+  doi = {10.32614/RJ-2021-108},
+  url = {https://doi.org/10.32614/RJ-2021-108},
+  pages = {600--623},
+  volume = {13},
+  number = {2}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The below is the citation for hte &lt;a href=&#34;https://journal.r-project.org/dev/articles/RJ-2021-112/&#34;&gt;rejoinder article&lt;/a&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;@article{Vidoni2021rejoinder,
+  author = {Melina Vidoni},
+  title = {{Rejoinder: Software Engineering and R Programming}},
+  year = {2021},
+  journal = {{The R Journal}},
+  doi = {10.32614/RJ-2021-112},
+  url = {https://doi.org/10.32614/RJ-2021-112},
+  pages = {713--733},
+  volume = {13},
+  number = {2}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100255423&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100255423&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding Roxygen Package Documentation in R</title>
+      <link>/publication/2022-jssdocs/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-jssdocs/</guid>
+      <description>&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mixed-methods study about documentation smells of Roxygen in R packages.&lt;/li&gt;
+&lt;li&gt;Mined software repositories and triangulated with a developers&amp;rsquo; survey.&lt;/li&gt;
+&lt;li&gt;Incomplete documentation and incorrect use Roxygen detected as common smells.&lt;/li&gt;
+&lt;li&gt;R developers prioritise different documentation parts than in traditional API’s.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
+&lt;p&gt;The main contributions of this study are as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This is the first study conducted to understand package documentation culture among R package developers&amp;rsquo; community. It analyses the extent to which they are documented by mining open, public repositories hosted in GitHub and performing several analysis.&lt;/li&gt;
+&lt;li&gt;It uncovered that R packages suffer from Documentation Technical Debt. Many sections of the Roxygen documentation are &lt;em&gt;incomplete&lt;/em&gt; (in particular, references, returns, and parameters), with multiple cases indicating an &lt;em&gt;incorrect use&lt;/em&gt; of Roxygen&amp;rsquo;s capabilities (i.e., family tags and topics, examples, code ownership and returns). There are indications that &lt;em&gt;outdated documentation&lt;/em&gt; may be a problem, but this was out-of-scope.&lt;/li&gt;
+&lt;li&gt;It surveys developers to understand their perspective regarding documentation and the challenges they face when using and writing Roxygen.&lt;/li&gt;
+&lt;li&gt;Survey results indicate that R developers prioritise different aspects of the documentation (compared to traditional object-oriented development), focusing on parameters, returns and examples, considering the latter the most helpful section. As perceived by the developers, common challenges are unexplained examples, ambiguity, incompleteness, and fragmented information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;This research did not receive any specific grants from funding agencies in the public, commercial, or not-for-profit sectors. The author thanks the anonymous reviewers who provided helpful comments on earlier drafts of the manuscript.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ethical-considerations&#34;&gt;Ethical Considerations&lt;/h3&gt;
+&lt;p&gt;The methodology used in this manuscript, described in the sections below, was revised approved by the Australian National University&amp;rsquo;s Human Ethics Research Committee (HREC), with project code 2021-24181.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@article{Vidoni2022b,
+title = &amp;quot;{Understanding Roxygen Package Documentation in R}&amp;quot;,
+journal = &amp;quot;{Journal of Systems and Software}&amp;quot;,
+volume = {188},
+pages = {111265},
+year = {2022},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/j.jss.2022.111265},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121222000310},
+author = {Melina Vidoni},
+keywords = {Software engineering, Roxygen, Api documentation, Technical debt, Mining software repositories, Developers’ survey},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=19309&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=19309&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Systematic Process for Mining Software Repositories: Results from a Systematic Literature Review</title>
+      <link>/publication/2022-msrguidelines/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-msrguidelines/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Systematic literature review examining the process of MSR studies.&lt;/li&gt;
+&lt;li&gt;Provides a systematic approach for MSR research with a protocol template.&lt;/li&gt;
+&lt;li&gt;Proposes guidelines derived from existing processes, consolidating prior works.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Assess the current practice of conducting MSR-based studies in Software Engineering (SE) through a systematic literature review (SLR).&lt;/li&gt;
+&lt;li&gt;Identifying gaps in MSR-based studies and compare their process to that of SLRs (as defined in [8]).&lt;/li&gt;
+&lt;li&gt;Centralised the findings into guidelines for systematic MSRs that support an unbiased aggregation of empirical results. These are derived from established SLR practices for SE (Petersen&amp;rsquo;s and Kitchenham&amp;rsquo;s guidelines) and supported by results from this SLR and previous related works by other authors.&lt;/li&gt;
+&lt;li&gt;A protocol template as guidelines to conduct MSR research.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;results-impact&#34;&gt;Results Impact&lt;/h2&gt;
+&lt;p&gt;(2021-12-11) I was &lt;a href=&#34;https://twitter.com/ProfPaulRalph/status/1468937355906138112?s=20&#34;&gt;invited to suggest changes&lt;/a&gt; to the preliminary ACM SIGSOFT Empirical Standard. Changes were made by &lt;a href=&#34;https://github.com/acmsigsoft/EmpiricalStandards/pull/58&#34;&gt;pull request into the open repository&lt;/a&gt;, and later &lt;a href=&#34;https://github.com/acmsigsoft/EmpiricalStandards/commit/8c65057255a464f468fe178faa96b7806921ae8a#diff-e070844e775dffb5daa20bd1ad036dbe5f2c4bd171c5515ca02cccc010c9134f&#34;&gt;streamlined&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@article{Vidoni2021c,
+title = &amp;quot;{A Systematic Process for Mining Software Repositories: Results from a Systematic Literature Review}&amp;quot;,
+journal = {Information and Software Technology},
+pages = {106791},
+year = {2022},
+issn = {0950-5849},
+doi = {https://doi.org/10.1016/j.infsof.2021.106791},
+url = {https://www.sciencedirect.com/science/article/pii/S0950584921002317},
+author = {M. Vidoni},
+keywords = {Mining Software Repositories, Systematic literature review, Evidence-based software engineering, Guidelines},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h2&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=18732&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=18732&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond Hard and Soft OR: Operational Research from a Software Engineering Perspective</title>
+      <link>/publication/2021-oreng/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021-oreng/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;The main contributions of this study are as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Historical review of Operational Research (OR)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Historical review of Software Engineering (SE)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Proposal of a new area of work for OR: OR-Engineering, and five research areas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;p&gt;The author also gratefully acknowledges the editors and anonymous reviewers of the manuscript for their thorough reading, thoughtful and insightful comments and suggestions. The author is especially thankful to Prof. Richard Ormerod for his contributions and insights, and to Prof. Aldo Vecchietti, that fostered the interest in this topic.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@article{Vidoni2021c,
+author = {Melina Vidoni},
+title = &amp;quot;{Beyond Hard and Soft OR: Operational Research from a Software Engineering Perspective}&amp;quot;&amp;quot;,
+journal = {Journal of the Operational Research Society},
+volume = {0},
+number = {0},
+pages = {1-23},
+year  = {2021},
+publisher = {Taylor &amp;amp; Francis},
+doi = {10.1080/01605682.2020.1865848},
+URL = {https://doi.org/10.1080/01605682.2020.1865848},
+eprint = {https://doi.org/10.1080/01605682.2020.1865848}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=22236&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=22236&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis, Design and Development of Advanced Planning Systems</title>
+      <link>/publication/2020-apsra/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020-apsra/</guid>
+      <description>&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@article{Vidoni2020,
+author = {Melina Vidoni and Jorge Marcelo Montagna and Aldo Vecchietti},
+title = {Analysis, design and development of advanced planning systems},
+journal = {International Journal of Industrial and Systems Engineering},
+volume = {36},
+number = {3},
+pages = {361-383},
+year  = {2020},
+publisher = {Inderscience Publishers},
+doi = {10.1504/IJISE.2020.110937},
+URL = {https://www.inderscience.com/info/inarticle.php?artid=110937}
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Agile Operational Research</title>
+      <link>/publication/2020-agileor/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020-agileor/</guid>
+      <description>&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
+&lt;p&gt;This article analyses the use of SE agility for OR interventions. For this purpose, the characteristics of the main stages of an OR intervention are identified together with the information managed at each stage. This evidences a match between OR interventions and agile lifecycles stages, showing that agility can be applied to project management in OR. This is further elaborated in three-step guidelines, which include selecting a methodology, organising a project, and representing the information in artefacts. Finally, a case study vignette supports the viability of this approach.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;The authors gratefully acknowledge the anonymous reviewers whose comments and suggestions helped improve and clarify this manuscript. Furthermore, authors are especially thankful to Prof Richard Ormerod for his contributions and insight.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@article{VidoniCunico2021,
+author = {Melina Vidoni and Laura Cunico and Aldo Vecchietti},
+title = {Agile operational research},
+journal = {Journal of the Operational Research Society},
+volume = {72},
+number = {6},
+pages = {1221-1235},
+year  = {2021},
+publisher = {Taylor &amp;amp; Francis},
+doi = {10.1080/01605682.2020.1718557},
+URL = {https://doi.org/10.1080/01605682.2020.1718557},
+eprint = {https://doi.org/10.1080/01605682.2020.1718557}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=22236&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=22236&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>rsppfp: An R Package for the Shortest Path Problem with Forbidden Paths</title>
+      <link>/publication/2019-softx/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-softx/</guid>
+      <description>&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;p&gt;The authors gratefully acknowledge the financial support for the work presented in this article to Universidad Tecnológica Nacional (UTN), Argentina through PID EIUTIFE0003974TC. Also, the authors appreciatively recognise the extraordinary efforts of the anonymous reviewers for their suggestions for improving the read of the article and the quality of the code.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@article{Vidoni2019,
+title = {“rsppfp”: An R package for the shortest path problem with forbidden paths},
+journal = {SoftwareX},
+volume = {9},
+pages = {265-270},
+year = {2019},
+issn = {2352-7110},
+doi = {https://doi.org/10.1016/j.softx.2019.03.004},
+url = {https://www.sciencedirect.com/science/article/pii/S2352711018300955},
+author = {Melina Vidoni and Aldo Vecchietti},
+keywords = {R package, Shortest path, Forbidden paths, Network flows},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100422153&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100422153&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project and Team-Based Strategies for Teaching Software Architecture</title>
+      <link>/publication/2018-pbl-architecture/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-pbl-architecture/</guid>
+      <description>&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;The authors gratefully acknowledge the financial support for the work presented in this article to
+Universidad Tecnologica Nacional (UTN) through PID EIUTIFE0003974TC and PID EIUTIFE0003960TC. Also, the authors thankful Prof. Juan Carlos Ramos for his cooperation in this experiment on the &amp;lsquo;Architecture Based Software Design&amp;rsquo; course at UTN-FRSF.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@ARTICLE {Vidoni2018a,
+author   = {Melina Vidoni and Jorge Marcelo Montagna and Aldo Vecchietti},
+title    = &amp;quot;{Project and Team-Based Strategies for Teaching Software Architecture}&amp;quot;,
+journal  = &amp;quot;{International Journal of Engineering Education}&amp;quot;,
+year     = &amp;quot;2018&amp;quot;,
+volume   = &amp;quot;34&amp;quot;,
+number   = &amp;quot;5&amp;quot;,
+pages    = &amp;quot;1701–1708&amp;quot;,
+url =   &amp;quot;https://www.ijee.ie/contents/c340518.html&amp;quot;,
+issn     = &amp;quot;0949-149X&amp;quot;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=12345&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=12345&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A systemic approach to define and characterize Advanced Planning Systems (APS)</title>
+      <link>/publication/2015-aps-definition/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-aps-definition/</guid>
+      <description>&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;The authors gratefully acknowledge the financial support for the work presented in this article to CONICET through Project PIP 688, ANPCyT with Grant PICT2012 2484 and Universidad Tecnológica Nacional through PID 25/O152.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@article{Vidoni2015a,
+title = {A systemic approach to define and characterize Advanced Planning Systems (APS)},
+journal = {Computers &amp;amp; Industrial Engineering},
+volume = {90},
+pages = {326-338},
+year = {2015},
+issn = {0360-8352},
+doi = {https://doi.org/10.1016/j.cie.2015.10.006},
+url = {https://www.sciencedirect.com/science/article/pii/S036083521500399X},
+author = {Melina C. Vidoni and Aldo R. Vecchietti},
+keywords = {ERP, APS, Advanced Planning System, Requirements, Architecture},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;
+&lt;p&gt;Venue ranking, according to Scimago Journal Rankings:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=18164&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=18164&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Intelligent Agent for ERP&#39;s Data Structure Analysis Based on ANSI/ISA-95 Standard</title>
+      <link>/publication/2015-graced/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-graced/</guid>
+      <description>&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;The authors gratefully acknowledge the financial support for the work presented in this article to CONICET through Project PIP 688, ANPCYT with grant PICT2012 2484 and Universidad Tecnológica Nacional through PID 25/O152.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@article{Vidoni2015b,
+title = {An intelligent agent for ERP&#39;s data structure analysis based on ANSI/ISA-95 standard},
+journal = {Computers in Industry},
+volume = {73},
+pages = {39-50},
+year = {2015},
+issn = {0166-3615},
+doi = {https://doi.org/10.1016/j.compind.2015.07.011},
+url = {https://www.sciencedirect.com/science/article/pii/S0166361515300294},
+author = {Melina C. Vidoni and Aldo R. Vecchietti},
+keywords = {ERP, Intelligent agent, Standard, ANSI/ISA-95, Manufacturing information},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=19080&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=19080&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integración de Modelos de Planeamiento y Scheduling en Sistemas de Información Empresariales</title>
+      <link>/publication/2013-pfc/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013-pfc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

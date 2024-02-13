@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Dr Jinbin Zhu</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algorithm Debt in Scientific Software</title>
+      <link>/project/2023-algodebt/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2023-algodebt/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; Algorithm Debt has been found in performance-critical and algorithm-intensive projects (e.g., Deep Learning frameworks) (Liu et al., 2020), used to support other works. Thus, Algorithm Debt may have a transitive effect&amp;ndash;i.e., if a piece of scientific software is not robust and thus prone to errors, then the research that leverages that software may be negatively impacted or even suffer from validity treats (Vidoni, 2021). This is concerning, considering the high rates of research retracted due to incorrect results, even after reaching social media  (Marton et al., 2021).&lt;/p&gt;
+&lt;p&gt;With Scientific Software used in different computation disciplines as a research tool (Sculley et al., 2015), there is a need to deliver high-quality and defect-free software. Understanding Algorithm Debt is essential to define clear pathways to mitigate its occurrence, simplify its management, and facilitate researchers&amp;rsquo; informed decisions about the software they choose.&lt;/p&gt;
+&lt;p&gt;Therefore, it can be stated that Algorithm Debt is a nascent research area at the forefront of Software Engineering for scientific software. This research aims to characterise Algorithm debt, provide tools for its detection, and understand the human-centric challenges to provide practical, translatable results that will benefit the broader research community.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This project is Iko-ojo Simon&amp;rsquo;s PhD Topic.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Participants:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Dr. Jinbin Zhu&lt;/em&gt;, Australian National University, Australia.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Dr. Fatemeh H. Fard&lt;/em&gt;, University of British Columbia, Canada.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Students:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Iko-ojo Simon&lt;/em&gt;, PhD Student, Australian National University, Australia.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Richeng Zhang&lt;/em&gt;, MsC Student, Australian National University, Australia.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Empirical Mining Software Repositories Research</title>
+      <link>/project/2022-msr/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2022-msr/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; Mining Software Repositories (MSRs) have become popular as evidence-based software engineering research that allows gathering and analysing large datasets of software-related data. This project studies MSRs as a methodology, to determine evidence-based processes and guidelines to conduct them, review studies using them, and assess the dichotomy of &amp;lsquo;privacy vs utility&amp;rsquo; when striving for reproducibility.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Participants:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Dr. Jinbin Zhu&lt;/em&gt;, Australian National University, Australia.&lt;/li&gt;
+&lt;li&gt;Dr Zadia Codabux, University of Saskatchewan, Canada.&lt;/li&gt;
+&lt;li&gt;Dr Fatemeh H. Fard, University of British Columbia, Canada.&lt;/li&gt;
+&lt;li&gt;Dr Nicolas Díaz-Ferreyra, University of Technology Hamburg, Germany.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Students:&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Engineering for Scientific Software</title>
+      <link>/project/2022-se4sci/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2022-se4sci/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; Many studies related to empirical Software Engineering (SE) are often conducted over object-oriented programming (OOP) projects, with an special focus on Java. On a related project, I pioneered work &lt;a href=&#34;../2020-rse&#34;&gt;Software Engineering for R Programming&lt;/a&gt; and for &lt;a href=&#34;../2018-softorse&#34;&gt;mathematical programming, from a process perspective&lt;/a&gt;. This project goes beyond domain and programming language barriers, to perform wide-ranging, cross-domain investigations centred on Python, R, Julia and other scientifically-oriented programming languages.&lt;/p&gt;
+&lt;p&gt;This project covers a myriad of topics, but is centred in technical debt, refactoring, and comparing obtianed results to prior findings in OOP (especially Java, C, C++). It prioritises MSR approaches and mixed-methods.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Participants:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Dr. Jinbin Zhu&lt;/em&gt;, Australian National University, Australia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Students:&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Engineering in R Programming</title>
+      <link>/project/2020-rse/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2020-rse/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; Many studies related to empirical Software Engineering (SE) are often conducted over object-oriented programming (OOP) projects, with an special focus on Java. This covers a myriad of topics, such as project management and up to code-related issues such as technical debt and maintainability. However, there are many more programming paradigms besides OOP. SE topics can and should be studied in other areas, such as in R programming.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Participants:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Dr. Jinbin Zhu&lt;/em&gt;, Australian National University, Australia.&lt;/li&gt;
+&lt;li&gt;Dr Zadia Codabux, University of Saskatchewan, Canada.&lt;/li&gt;
+&lt;li&gt;Dr Fatemeh H. Fard, University of British Columbia, Canada.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Students:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Davin Ie and Pranjay Kumar (2021, RMIT University).&lt;/li&gt;
+&lt;li&gt;Dominic Yang, Richard Zhang (2022, ANU).&lt;/li&gt;
+&lt;li&gt;Pranav Chandramouli (2021-2022, University of Saskatchewan, Co-Supervised)&lt;/li&gt;
+&lt;li&gt;Rishab Sharma and Ramin Shahbazi (2021, University of British Columbia; temporal collaboration)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Operational Research Driven By Software Engineering Principles</title>
+      <link>/project/2018-softorse/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2018-softorse/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; Since Operational Research (OR) discovered &amp;ldquo;wicked&amp;rdquo; or &amp;ldquo;messy&amp;rdquo; problems, many contributions have been made to simplify the solving of this type of situations. These methodologies are usually known as Soft-OR. However, there are still gaps in this research area. Software Engineering (SE) has addressed this gaps before and, due to the similarity that exists between both disciplines, this project aims to apply SE concepts, techniques and methods to OR interventions. The overall goal is to assist in the development of OR models and to provide means to enhance their code quality.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hyphothesis:&lt;/strong&gt; Software Engineering concepts can contribute and assist in the development of Operational Research projects.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Participants:&lt;/strong&gt; Dr. Jinbin Zhu, Dr. Laura Cunico.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis, Characterization, Design and Development of APS to Optimize Manufacturing Processes</title>
+      <link>/project/2013-thesis/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2013-thesis/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; This project aims to study Advanced Planning Systems (APS) from a Software Engineering (SE) point of view, aiming to bridge the current gap in research, providing sound concepts and definitions founded in current international SE standars. It aims to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;To provide a definition that would consider APS as systems and not only as models, including generic Functional Requirements and Quality Attributes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Propose means to improve exchange of manufacturing information with Enterprise Systems by using the standardized concepts of the ANSI/ISA-95 standard.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Generate and evaluate a Reference Architecture to characterize the APS domain and simplify future in-house development of APS modules in SME (Small and Medium Enterprises).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This project was my PhD thesis. Degree: PhD on Information Systems Engineering.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Participants:&lt;/strong&gt; Eng. Jinbin Zhu, Prof. Jorge Marcelo Montagna (Co-Advisor), Prof. Aldo Vecchietti (Advisor).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information System to Solve Industrial Planning and Scheduling Problems</title>
+      <link>/project/2012-pfc/</link>
+      <pubDate>Mon, 19 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2012-pfc/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; The project objective was to develop software system prototype that would act as a framework to easily integrate planning and scheduling mathematical optimization models for manufacturing processes, to an organization Enterprise System. Key qualities of the prototype were: the ability to change models easily without requiring reprogramming, and a simple and configurable set up of the Enterprise System to interoperate with.&lt;/p&gt;
+&lt;p&gt;This project was the Thesis from my Information Systems Engineering degree.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Participants:&lt;/strong&gt; Jinbin Zhu, Dr. Maria Analia Rodriguez (Co-Advisor), Prof. Aldo Vecchietti (Advisor).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

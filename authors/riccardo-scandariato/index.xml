@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riccardo Scandariato on Dr Jinbin Zhu</title>
+    <link>/authors/riccardo-scandariato/</link>
+    <description>Recent content in Riccardo Scandariato on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/riccardo-scandariato/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Developers Need Protection, Too: Perspectives and Research Challenges for Privacy in Social Coding Platforms</title>
+      <link>/publication/2023-chase/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023-chase/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-results&#34;&gt;Preliminary Results&lt;/h2&gt;
+&lt;p&gt;SCPs are rich sources of information about developers&amp;rsquo; sociotechnical skills and have helped, to a great extent, characterise current trends in software engineering. However, despite their importance, little attention has been placed on the privacy-related behaviour of SCP users and the threats steaming from unsavvy information disclosure practices. In this work, we provided some empirical insights in this regard with the aim of paving the road for future investigations. Overall, our results suggest the need for further research assessing the usability of the current privacy-enhancing mechanism available in SCPs. That is, to determine whether such mechanisms meet users&amp;rsquo; individual and collective goals of transparency, access control, and anonymity.&lt;/p&gt;
+&lt;p&gt;Developers&amp;rsquo; knowledge and perception of privacy threats also call for additional research efforts, as it is critical to assess their (potential) lack of awareness in order to outline adequate cybersecurity training programs. The role of risk awareness in the adoption of privacy-enhancing technologies has been thoroughly studied and documented across the OSN literature (Oukemeni et al., 2019). In future work, we plan to delve into the interplay between risk awareness and privacy-related behaviour in SCPs. Particularly, on developers&amp;rsquo; knowledge about potential privacy threats (e.g., secrets sprawl or code re-attribution) and their adoption of cybersecurity best practices (e.g., see Krause et al., (2022)).&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@inproceedings{DiazFerreyra2023,
+author = {Ferreyra, Nicolás E. Díaz and Imine, Abdessamad and Vidoni, Melina and Scandariato, Riccardo},
+title = &amp;quot;{Developers Need Protection, Too: Perspectives and Research Challenges for Privacy in Social Coding Platforms}&amp;quot;,
+year = {2023},
+isbn = {},
+publisher = {Association for Computing Machinery},
+address = {New York, USA},
+doi = {10.1109/CHASE58964.2023.00019},
+booktitle = {16th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2023)},
+pages = {105-110},
+numpages = {12},
+location = {Melbourne, Australia},
+series = {CHASE&#39;23}
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

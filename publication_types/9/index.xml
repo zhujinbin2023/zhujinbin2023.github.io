@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>9 on Dr Jinbin Zhu</title>
+    <link>/publication_types/9/</link>
+    <description>Recent content in 9 on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MSR4PS 2022: Proceedings of the 1st International Workshop on Mining Software Repositories Applications for Privacy and Security</title>
+      <link>/publication/2022-msr4ps/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-msr4ps/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;On behalf of the Program Committee, we are pleased to present the proceedings of the 1st International Workshop on Mining Software Repositories for Privacy and Security (MSR4P&amp;amp;S 2022). MSR4P&amp;amp;S is co-located with the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE). This year, because of the Covid-19 pandemic, MSR4P&amp;amp;S (as part of ESEC/FSE) is held virtually with an adapted program that will bring together international researchers to exchange ideas, share experiences, investigate problems, and propose promising solutions concerning the application of Mining Software Repositories (MSR) to investigate the different stages of privacy and security. The workshop topics cover a wide range of MSR applications for cybersecurity research, including empirical and mixed-method approaches, as well as datasets and tools.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;organising-committee-general-chairs&#34;&gt;Organising Committee, General Chairs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Melina Vidoni. Australian National University, School of Computing. Australia.&lt;/li&gt;
+&lt;li&gt;Nicolás Díaz Ferreyra. Hamburg University of Technology, Institute of Software Security. Germany.&lt;/li&gt;
+&lt;li&gt;Zadia Codabux. University of Saskatchewan, Dept. of Computer Science. Canada.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@proceedings{msr4ps2022,
+title = {MSR4P\&amp;amp;S 2022: Proceedings of the 1st International Workshop on Mining Software Repositories Applications for Privacy and Security},
+year = {2022},
+isbn = {978-1-4503-9457-4},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+location = {Singapore, Singapore}
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

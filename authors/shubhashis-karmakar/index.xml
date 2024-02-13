@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shubhashis Karmakar on Dr Jinbin Zhu</title>
+    <link>/authors/shubhashis-karmakar/</link>
+    <description>Recent content in Shubhashis Karmakar on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/shubhashis-karmakar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Experience Report on Technical Debt in Pull Requests: Challenges and Lessons Learned</title>
+      <link>/publication/2022-tdissues/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-tdissues/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-results&#34;&gt;Preliminary Results&lt;/h2&gt;
+&lt;p&gt;Although we successfully classified PRCs as TD and non-TD and the TD comments as explicit and implicit, the classification process was challenging. We found that PRCs often lack the context to understand it and correctly classify it. Some PRCs were potential TD, but we could not determine whether they will eventually become a TD instance using only information in the PRC. PRCs were often ambiguous and hard to understand due to the natural language in which they were written, and the terminologies and vocabulary used differ among the developers. Lastly, more than one PRC could be related to the same debt instance, or multiple debt instances may be discussed in a PRC. We discussed some mitigation strategies for these challenges.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@inproceedings{Karmakar2022,
+author = {Karmakar, Shubhashis and Codabux, Zadia and Vidoni, Melina},
+title = &amp;quot;{An Experience Report on Technical Debt in Pull Requests: Challenges and Lessons Learned}&amp;quot;,
+year = {2022},
+isbn = {9781450394277},
+publisher = {Association for Computing Machinery},
+address = {New York, USA},
+doi = {10.1145/3544902.3546637},
+booktitle = {16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement},
+pages = {295–300},
+numpages = {6},
+keywords = {Mining Software Repositories, Technical Debt, Pull Request Comments},
+location = {Helsinki, Finland},
+series = {ESEM &#39;22}
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

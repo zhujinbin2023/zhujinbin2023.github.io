@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Dr Jinbin Zhu</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algorithm Debt: Challenges and Future Paths</title>
+      <link>/publication/2023-algodebt/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023-algodebt/</guid>
+      <description>&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@inproceedings{Simon2023,
+author = {Simon, Iko-ojo and Vidoni, Melina and Fard, Fatemeh},
+title = &amp;quot;{Algorithm Debt: Challenges and Future Paths}&amp;quot;,
+year = {2023},
+isbn = {},
+publisher = {Association for Computing Machinery},
+address = {New York, USA},
+doi = {},
+booktitle = &amp;quot;{2nd International Conference on AI Engineering – Software Engineering for AI (CAIN&#39;23)}&amp;quot;,
+pages = {90-91},
+numpages = {12},
+location = {Melbourne, Australia},
+series = {CAIN&#39;23}
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Developers Need Protection, Too: Perspectives and Research Challenges for Privacy in Social Coding Platforms</title>
+      <link>/publication/2023-chase/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023-chase/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-results&#34;&gt;Preliminary Results&lt;/h2&gt;
+&lt;p&gt;SCPs are rich sources of information about developers&amp;rsquo; sociotechnical skills and have helped, to a great extent, characterise current trends in software engineering. However, despite their importance, little attention has been placed on the privacy-related behaviour of SCP users and the threats steaming from unsavvy information disclosure practices. In this work, we provided some empirical insights in this regard with the aim of paving the road for future investigations. Overall, our results suggest the need for further research assessing the usability of the current privacy-enhancing mechanism available in SCPs. That is, to determine whether such mechanisms meet users&amp;rsquo; individual and collective goals of transparency, access control, and anonymity.&lt;/p&gt;
+&lt;p&gt;Developers&amp;rsquo; knowledge and perception of privacy threats also call for additional research efforts, as it is critical to assess their (potential) lack of awareness in order to outline adequate cybersecurity training programs. The role of risk awareness in the adoption of privacy-enhancing technologies has been thoroughly studied and documented across the OSN literature (Oukemeni et al., 2019). In future work, we plan to delve into the interplay between risk awareness and privacy-related behaviour in SCPs. Particularly, on developers&amp;rsquo; knowledge about potential privacy threats (e.g., secrets sprawl or code re-attribution) and their adoption of cybersecurity best practices (e.g., see Krause et al., (2022)).&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@inproceedings{DiazFerreyra2023,
+author = {Ferreyra, Nicolás E. Díaz and Imine, Abdessamad and Vidoni, Melina and Scandariato, Riccardo},
+title = &amp;quot;{Developers Need Protection, Too: Perspectives and Research Challenges for Privacy in Social Coding Platforms}&amp;quot;,
+year = {2023},
+isbn = {},
+publisher = {Association for Computing Machinery},
+address = {New York, USA},
+doi = {10.1109/CHASE58964.2023.00019},
+booktitle = {16th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2023)},
+pages = {105-110},
+numpages = {12},
+location = {Melbourne, Australia},
+series = {CHASE&#39;23}
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>An Experience Report on Technical Debt in Pull Requests: Challenges and Lessons Learned</title>
+      <link>/publication/2022-tdissues/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-tdissues/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-results&#34;&gt;Preliminary Results&lt;/h2&gt;
+&lt;p&gt;Although we successfully classified PRCs as TD and non-TD and the TD comments as explicit and implicit, the classification process was challenging. We found that PRCs often lack the context to understand it and correctly classify it. Some PRCs were potential TD, but we could not determine whether they will eventually become a TD instance using only information in the PRC. PRCs were often ambiguous and hard to understand due to the natural language in which they were written, and the terminologies and vocabulary used differ among the developers. Lastly, more than one PRC could be related to the same debt instance, or multiple debt instances may be discussed in a PRC. We discussed some mitigation strategies for these challenges.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@inproceedings{Karmakar2022,
+author = {Karmakar, Shubhashis and Codabux, Zadia and Vidoni, Melina},
+title = &amp;quot;{An Experience Report on Technical Debt in Pull Requests: Challenges and Lessons Learned}&amp;quot;,
+year = {2022},
+isbn = {9781450394277},
+publisher = {Association for Computing Machinery},
+address = {New York, USA},
+doi = {10.1145/3544902.3546637},
+booktitle = {16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement},
+pages = {295–300},
+numpages = {6},
+keywords = {Mining Software Repositories, Technical Debt, Pull Request Comments},
+location = {Helsinki, Finland},
+series = {ESEM &#39;22}
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>On the Developers&#39; Attitude Towards CRAN Checks</title>
+      <link>/publication/2022-cranchecks/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-cranchecks/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-results&#34;&gt;Preliminary Results&lt;/h2&gt;
+&lt;p&gt;Preliminary results indicate that coverage calculations are prone to manipulation since developers alter it with the &lt;code&gt;nocov&lt;/code&gt; tags in comments. Source code comments indicate the introduction of &amp;ldquo;Build Debt&amp;rdquo;, followed by &amp;ldquo;Code&amp;rdquo; and &amp;ldquo;Defect Debt&amp;rdquo;, with checks related to &amp;ldquo;R Code Quality&amp;rdquo; being the most exposed.&lt;/p&gt;
+&lt;p&gt;In StackOverflow, checks about &amp;ldquo;Description&amp;rdquo;, &amp;ldquo;R Code&amp;rdquo;, and &amp;ldquo;Package Structure&amp;rdquo; are the most queried, with about a third of enquiries resulting in an &lt;em&gt;avoidance&lt;/em&gt; behaviour. Moreover, there was a peak of enquiries of any type during 2020.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;related-works&#34;&gt;Related Works&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/publication/2021-rsatd&#34;&gt;&amp;ldquo;Self-Admitted Technical Debt in R Packages: An Exploratory Study&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/publication/2021-ropensci&#34;&gt;&amp;ldquo;Technical Debt in the Peer-Review Documentation of R Packages: a rOpenSci Case Study&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@INPROCEEDINGS {Kumar2022,
+author = {P. Kumar and D. Ie and M.  Vidoni},
+booktitle = {IEEE/ACM 30th International Conference on Program Comprehension (ICPC)},
+title = {On the Developers&#39; Attitude Towards CRAN Checks},
+year = {2022},
+volume = {},
+issn = {},
+pages = {570-574},
+doi = {10.1145/3524610.3528389},
+publisher = {IEEE Computer Society},
+address = {Pittsburng, USA},
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Should I Get Involved? On the Privacy Perils of Mining Software Repositories for Research Participants</title>
+      <link>/publication/2022-ropes/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-ropes/</guid>
+      <description>&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;This research did not receive any specific grants from funding agencies in the public, commercial, or not-for-profit sectors.&lt;/p&gt;
+&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;
+&lt;p&gt;RoPES	is the 1st International Workshop on Recruitment of Participants for Empirical Software Engineering Studies, co-located with &lt;a href=&#34;https://conf.researchr.org/track/icse-2022/icse-2022-workshops#Accepted-Workshops&#34;&gt;ICSE 2022&lt;/a&gt;. The website is &lt;a href=&#34;https://ropes-workshops.github.io/ropes22/&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;citations&#34;&gt;Citations&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@INPROCEEDINGS{VidoniDiaz2022a,
+author = {M. Vidoni and N. Diaz-Ferreyra},
+booktitle = &amp;quot;{1st International Workshop on Recruiting Participants for Empirical Software Engineering}&amp;quot;,
+title = &amp;quot;{Should I Get Involved? On the Privacy Perils of Mining Software Repositories for Research Participants}&amp;quot;,
+year = {2022},
+pages = {1-3},
+keywords = {Mining software repositories; developers&#39; privacy; ethical considerations; privacy-preserving protocols; indirect participants},
+doi = {},
+publisher = {IEEE Computer Society},
+address = {Pittsburg, USA},
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Evaluating Unit Testing Practices in R Packages</title>
+      <link>/publication/2021-rttd-icse/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021-rttd-icse/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;The main contributions of this study are as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This is the first study conducted to understand unit testing culture in the R packages development community. It analyses the extent to which R packages are tested by mining open, public R packages repositories hosted in GitHub, by performing a number of analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;About testing practices, findings indicate that few alternative paths are tested, and test suits seem to be irrelevant since bugs are often found when tests are passing. Developers lack in-depth training, expected due to the absence of technical programming background (German et al., 2013). Moreover, there is a striking amount of manual testing, potentially due to the statistical nature of R packages, and the lack of statistically centred unit testing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Regarding existing testing tools, results show that R&amp;rsquo;s unit testing tools may be incomplete, lacking assertion functionalities and automatic data initialisation (e.g. Junit&amp;rsquo;s &lt;code&gt;@BeforeAll&lt;/code&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It surveys many developers to understand their perspective in testing tools and challenges faced by them when testing their R packages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ethical-considerations&#34;&gt;Ethical Considerations&lt;/h2&gt;
+&lt;p&gt;The methodology used in this manuscript, and described in the sections below, was approved by RMIT University Human Ethics Research Committee (HREC), with project code 2020-22968.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;p&gt;The author thanks Associate Professor John Ormerod, from the School of Mathematics and Statistics at University of Sydney (Australia),
+for his assistance when calculating the sample sizes for the manual analysis of the data extracted. The author also gratefully acknowledges the anonymous reviewers for their careful reading of the manuscript and their insightful comments and suggestions, as well as the R developers who participated in the survey.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation:&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@INPROCEEDINGS{Vidoni2021,
+  author={Vidoni, Melina},
+  booktitle={2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE)}, 
+  title={Evaluating Unit Testing Practices in R Packages}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1523-1534},
+  doi={10.1109/ICSE43902.2021.00136}}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Self-Admitted Technical Debt in R Packages: An Exploratory Study</title>
+      <link>/publication/2021-rsatd/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021-rsatd/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;More than 164k of comments were manually read and classified into 12 types of TD. The A-Survey obtained about 102 responses, while Q-Survey surpassed the expected threshold to obtain 140 complete responses. This manuscript makes the following contributions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An analysis of TD in R packages. Results showcase an excessive amount of outdated code left commented out, poor testing quality with comments written to avoid automation of tests, and a tendency to bypass CRAN checks. Moreover, Code and Test are the types of TD most commonly admitted, albeit Algorithm Debt was also detected. Comment quality was often deemed low and obscure, and developers indicated they seldom address it in their packages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A comparison with results from other studies, also exploring source code comments, but in OOP projects. This includes SATD text patterns, developers&amp;rsquo; perspectives, and types of datasets.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A dataset of SATD comments in a large variety of R packages for use in future studies, as well as the final list of text patterns discovered in this study. See: &lt;a href=&#34;https://doi.org/10.5281/zenodo.4558219&#34;&gt;https://doi.org/10.5281/zenodo.4558219&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Impact:&lt;/strong&gt; This article was reported as part of &lt;a href=&#34;https://doi.org/10.1109/MS.2021.3133734&#34;&gt;&amp;ldquo;Technical Debt Problems and Concerns&amp;rdquo;&lt;/a&gt;, an article in the IEEE Software, Volume 39, Issue 3.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ethical-considerations&#34;&gt;Ethical Considerations&lt;/h2&gt;
+&lt;p&gt;The methodology used in this manuscript was approved by RMIT University Human Ethics Research Committee (HREC), with project code 2020-23517.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;p&gt;The author acknowledges Associate Professor John Ormerod from the School of Mathematics and Statistics at the University of Sydney (Australia) for his assistance when calculating the sample sizes for the survey. Additionally, the author thanks the developers who participated in the surveys and the volunteers advising on the pre-classification. Finally, the author is grateful to the anonymous reviewers for their careful reading of the manuscript and their insightful comments and suggestions.&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@INPROCEEDINGS {Vidoni2021b,
+author = {M.  Vidoni},
+booktitle = {2021 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR) (MSR)},
+title = {Self-Admitted Technical Debt in R Packages: An Exploratory Study},
+year = {2021},
+volume = {},
+issn = {},
+pages = {179-189},
+doi = {10.1109/MSR52588.2021.00030},
+url = {https://doi.ieeecomputersociety.org/10.1109/MSR52588.2021.00030},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Technical Debt in the Peer-Review Documentation of R Packages: a rOpenSci Case Study</title>
+      <link>/publication/2021-ropensci/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021-ropensci/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;The main contributions of this study are as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This is the first study that investigates TD in the R package peer-reviewing documentation. We use a new source of data to explore TD, compared to most studies from the literature which analyze source code.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We propose a taxonomy of TD, extended to incorporate specific concepts related to R packages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A dataset of manually labelled TD instances in R  peer-reviews documentation is made available publicly. Available &lt;a href=&#34;http://doi.org/10.5281/zenodo.4589573&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ethical-considerations&#34;&gt;Ethical Considerations&lt;/h2&gt;
+&lt;p&gt;The methodology used in this manuscript, and described in the sections below, was approved by RMIT University Human Ethics Research Committee (HREC), with project code 2020-22643-11528.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;p&gt;We kindly thank Scott Chamberlain, Noam Ross and Karthik Ram, Associate Editors of rOpenSci, who enabled us to conduct this study. We also gratefully acknowledge the anonymous reviewers, whose insight and critique helped improve the quality of this work. This work is partially supported by Natural Sciences and Engineering
+Research Council of Canada RGPIN-2019-05175.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citations&#34;&gt;Citations&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@INPROCEEDINGS {Codabux2021,
+author = {Z. Codabux and M. Vidoni and F. H. Fard},
+booktitle = {2021 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR)},
+title = {Technical Debt in the Peer-Review Documentation of R Packages: A rOpenSci Case Study},
+year = {2021},
+pages = {195-206},
+keywords = {technical debt;r programming;ropensci;technical debt taxonomy;mining software repositories},
+doi = {10.1109/MSR52588.2021.00032},
+url = {https://doi.ieeecomputersociety.org/10.1109/MSR52588.2021.00032},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>An Empirical Framework to Applying Unit Testing in Operational Research</title>
+      <link>/publication/2018-48cie/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-48cie/</guid>
+      <description>&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@inproceedings{Vidoni2018b,
+  author    = &amp;quot;Melina Vidoni and Laura Cunico and Aldo Vecchietti&amp;quot;,
+  title     = &amp;quot;{An Empirical Framework to Applying Unit Testing in Operational Research}&amp;quot;,
+  booktitle = &amp;quot;48th International Conference on Computers and Industrial Engineering (CIE48)&amp;quot;,
+  year      = &amp;quot;2018&amp;quot;,
+  address   = &amp;quot;Auckland, New Zealand&amp;quot;,
+  issbn     = &amp;quot;2164-8689&amp;quot;,
+  note      = &amp;quot;Code 144541&amp;quot;
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Towards an R Package for the Shortest Path Problem with Forbidden Paths</title>
+      <link>/publication/2018-latinr/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-latinr/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;update-2018-11-20&#34;&gt;Update: 2018-11-20&lt;/h2&gt;
+&lt;p&gt;The package &lt;code&gt;rsppfp&lt;/code&gt; is now available on CRAN, and can be installed directly in R, using the &lt;code&gt;install.packages(&amp;quot;rsppfp&amp;quot;)&lt;/code&gt; command. More information available &lt;a href=&#34;https://cran.r-project.org/web/packages/rsppfp/index.html&#34;&gt;at CRAN website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards an Agile Lifecycle in Operation Research Projects</title>
+      <link>/publication/2018-iceis-agile-or/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-iceis-agile-or/</guid>
+      <description>&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@conference{iceis18,
+author={Melina Vidoni. and Maria Laura Cunico. and Aldo Vecchietti.},
+title={Towards an Agile Lifecycle in Operation Research Projects},
+booktitle={Proceedings of the 20th International Conference on Enterprise Information Systems - Volume 1: ICEIS,},
+year={2018},
+pages={432-440},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0006760504320440},
+isbn={978-989-758-298-1},
+issn={2184-4992},
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Improving the Assessment of Advanced Planning Systems by Including Optimization Experts&#39; Knowledge</title>
+      <link>/publication/2017-apsra-assessment/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-apsra-assessment/</guid>
+      <description>&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@inproveedings{Vidoni2017,
+author={Melina Vidoni and Jorge Marcelo Montagna and Aldo Vecchietti},
+title=&amp;quot;{Improving the Assesment of Advanced Planning Systems by Including Optimization Experts\&#39; Knowledge}&amp;quot;,
+booktitle={Proceedings of the 19th International Conference on Enterprise Information Systems},
+year={2017},
+pages={510-517},
+volume={2},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0006362005100517},
+isbn={978-989-758-248-6},
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Towards a Reference Architecture for Advanced Planning Systems</title>
+      <link>/publication/2016-apsra-iceis/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-apsra-iceis/</guid>
+      <description>&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@inproceedings{iceis16,
+author={Melina Vidoni and Aldo Vecchietti},
+title=&amp;quot;{Towards a Reference Architecture for Advanced Planning Systems}&amp;quot;&amp;quot;,
+booktitle={Proceedings of the 18th International Conference on Enterprise Information Systems},
+year={2016},
+pages={433-440},
+volume={1},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0005785804330440},
+isbn={978-989-758-187-8},
+issn={2184-4992},
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

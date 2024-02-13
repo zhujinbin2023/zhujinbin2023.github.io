@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ken Russel Go on Dr Jinbin Zhu</title>
+    <link>/authors/ken-russel-go/</link>
+    <description>Recent content in Ken Russel Go on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/ken-russel-go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simple Stupid Insecure Practices and GitHub&#39;s Code Search: A Looming Threat?</title>
+      <link>/publication/2023-ssip/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023-ssip/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-results&#34;&gt;Preliminary Results&lt;/h2&gt;
+&lt;p&gt;Our findings reveal that packages on lower versions (such as version zero) are more prone to include SSIPs, and that &amp;ldquo;code injection&amp;rdquo; is the most scattered SSIP. About 20% of the scouted packages had at least one vulnerability, with others representing concerning outliers with high numbers of vulnerabilities. Nevertheless, through a basic combination of regexes and a public list of insecure practices, we highlight that the malicious use of this incoming &amp;ldquo;Code Search&amp;rdquo; engine was straightforward.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;@article{Go2023,
+title = {Simple stupid insecure practices and GitHub’s code search: A looming threat?},
+journal = {Journal of Systems and Software},
+volume = {202},
+pages = {111698},
+year = {2023},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/j.jss.2023.111698},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121223000936},
+author = {Ken Russel Go and Sruthi Soundarapandian and Aparupa Mitra and Melina Vidoni and Nicolás E. Díaz Ferreyra},
+keywords = {Python, GitHub code search, Simple stupid insecure practices},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=19309&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=19309&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

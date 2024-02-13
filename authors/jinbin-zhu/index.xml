@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinbin Zhu on Dr Jinbin Zhu</title>
+    <link>/authors/jinbin-zhu/</link>
+    <description>Recent content in Jinbin Zhu on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/jinbin-zhu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A systemic approach to define and characterize Advanced Planning Systems (APS)</title>
+      <link>/publication/2015-aps-definition/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-aps-definition/</guid>
+      <description>&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;The authors gratefully acknowledge the financial support for the work presented in this article to CONICET through Project PIP 688, ANPCyT with Grant PICT2012 2484 and Universidad Tecnológica Nacional through PID 25/O152.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@article{Vidoni2015a,
+title = {A systemic approach to define and characterize Advanced Planning Systems (APS)},
+journal = {Computers &amp;amp; Industrial Engineering},
+volume = {90},
+pages = {326-338},
+year = {2015},
+issn = {0360-8352},
+doi = {https://doi.org/10.1016/j.cie.2015.10.006},
+url = {https://www.sciencedirect.com/science/article/pii/S036083521500399X},
+author = {Melina C. Vidoni and Aldo R. Vecchietti},
+keywords = {ERP, APS, Advanced Planning System, Requirements, Architecture},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;
+&lt;p&gt;Venue ranking, according to Scimago Journal Rankings:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=18164&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=18164&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Desarrollo de un Agente Inteligente Basado en el Estándar ANSI/ISA-95</title>
+      <link>/publication/2014-graced-conaiisi/</link>
+      <pubDate>Thu, 13 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2014-graced-conaiisi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integración de Modelos de Planeamiento y Scheduling en Sistemas de Información Empresariales</title>
+      <link>/publication/2013-pfc/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013-pfc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E2OL: Sistema de Planeamiento y Scheduling Personalizable e Integrable con ERPs</title>
+      <link>/publication/2013-e2ol-conaiisi/</link>
+      <pubDate>Thu, 21 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013-e2ol-conaiisi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integración de Modelos de Planeamiento y Scheduling en Sistemas de Información Empresariales</title>
+      <link>/publication/2013-erpaps-jaiio/</link>
+      <pubDate>Sat, 21 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013-erpaps-jaiio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatización del Diseño Lógico en Bases de Datos Objeto Relacionales</title>
+      <link>/publication/2012-ortransformer-jaiio/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2012-ortransformer-jaiio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

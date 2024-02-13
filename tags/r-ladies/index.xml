@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R-Ladies on Dr Jinbin Zhu</title>
+    <link>/tags/r-ladies/</link>
+    <description>Recent content in R-Ladies on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Tue, 02 Oct 2018 15:00:00 +0800</lastBuildDate>
+    
+	    <atom:link href="/tags/r-ladies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Women in STEM &#43; R-Ladies</title>
+      <link>/talk/2018-10-02-recreo/</link>
+      <pubDate>Tue, 02 Oct 2018 15:00:00 +0800</pubDate>
+      
+      <guid>/talk/2018-10-02-recreo/</guid>
+      <description>&lt;p&gt;This talk was given thanks to the &lt;a href=&#34;https://www.facebook.com/RLadiesSantaFe/notifications/?section=activity_feed&amp;amp;subsection=mention&amp;amp;ref=notif&amp;amp;target_story=S%3A_I778673005598840%3A1587650938034372&#34;&gt;invitation of Fernanda Benitez, who works at the Science and Technology Ministery of Santa Fe Province&lt;/a&gt;. I am really grateful for this opportunity.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/talks/2018-recreo.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies: Talks &amp; Workshops</title>
+      <link>/talk/2018-05-08-rladies-stafe/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018-05-08-rladies-stafe/</guid>
+      <description>&lt;h2 id=&#34;20180601-first-meetup&#34;&gt;2018/06/01: First Meetup&lt;/h2&gt;
+&lt;p&gt;Introduction to R-Ladies and first meetup of the chapter. I introduced what is R, its history, how R-Ladies came to be, its structure and goals, and set up some time to network among the new members.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/es/rladies-santa-fe/events/250907258/&#34;&gt;Meetup Page&lt;/a&gt; | &lt;a href=&#34;https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/01-Junio/Slides%20-%20Bienvenida%20a%20R-Ladies%20Santa%20Fe.pdf&#34;&gt;PDF Slides&lt;/a&gt; | &lt;a href=&#34;https://www.youtube.com/watch?v=0NGJ7w7mSdQ&#34;&gt;Video Recording&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;20180704-r-for-data-science-from-scratch&#34;&gt;2018/07/04: R for Data Science From Scratch&lt;/h2&gt;
+&lt;p&gt;This was a practical workshop of 2.5hs, based on the book &lt;a href=&#34;https://bookdown.org/rdpeng/rprogdatascience/&#34;&gt;&amp;ldquo;R Programming for Data Science&amp;rdquo;&lt;/a&gt; by Roger Peng. It started with the basics, such as &lt;em&gt;what is a variable&lt;/em&gt;, and we made some very basic plots using &lt;code&gt;ggplot2&lt;/code&gt;. The idea was to introduce the members to programming, as most of them came from diverse backgrounds and had never programmed before.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/es/rladies-santa-fe/events/251896964/&#34;&gt;Meetup Page&lt;/a&gt; | &lt;a href=&#34;https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/03-Julio/Slides-TallerR.pdf&#34;&gt;PDF Slides&lt;/a&gt; | Video Recording &lt;a href=&#34;https://www.youtube.com/watch?v=WFtJ5K4XAWY&#34;&gt;Part 1&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.youtube.com/watch?v=L0uR1q9QN9c&#34;&gt;Part 2&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/talks/2018-rladies-1.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;20180907-the-r-ladies-initiative&#34;&gt;2018/09/07: The R-Ladies Initiative&lt;/h2&gt;
+&lt;p&gt;This was presented at the &lt;a href=&#34;http://www.sociedadeconomiacritica.org/proximas-jec/xi-jec-primera-circular/&#34;&gt;XI Jornadas de Economía Crítica&lt;/a&gt;. I was personally invited by Dr. Marianela Sarabia to give this talk.&lt;/p&gt;
+&lt;p&gt;Introducing what R-Ladies is, how it is organized, how it works in Santa Fe, and different contributions made on others chapters. I was personally invited to give this talk by Dr. Marianela Sarabia, in order to introduce R-Ladies to conference&amp;rsquo;s attendees.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/05-Septiembre/JEC/Presentaci%C3%B3n_RLadies_JEC.pdf&#34;&gt;PDF Slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;20180911-basic-machine-learning-algorithms-in-r&#34;&gt;2018/09/11: Basic Machine Learning Algorithms in R&lt;/h2&gt;
+&lt;p&gt;Introducing three basic Machine Learning Algorithms in R: Classification and Regression Trees, Association Rules and Clustering. The venue was Santa Fe Activa, a venue for local enterpreuneurs, which I secured through negotiations with the Secretary of Small Enterprises from Santa Fe City. The 2.5hs long workshop included explanations about the algorithms, live coding and exercises to solve as &amp;ldquo;homework&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/es/rladies-santa-fe/events/252804555/&#34;&gt;Meetup Page&lt;/a&gt; | &lt;a href=&#34;https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/05-Septiembre/Algoritmos_ML.pdf&#34;&gt;PDF Slides&lt;/a&gt; | &lt;a href=&#34;https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/05-Septiembre/TallerR-MachineLearning-Scripts.rar&#34;&gt;R Scripts&lt;/a&gt; | &lt;a href=&#34;https://www.youtube.com/watch?v=KLtCOeqineM&#34;&gt;Video Recording&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/talks/2018-rladies-2.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

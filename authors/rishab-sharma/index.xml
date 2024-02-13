@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rishab Sharma on Dr Jinbin Zhu</title>
+    <link>/authors/rishab-sharma/</link>
+    <description>Recent content in Rishab Sharma on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/rishab-sharma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Self-Admitted Technical Debt in R: Detection and Causes</title>
+      <link>/publication/2022-autorsatd/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022-autorsatd/</guid>
+      <description>&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This is the first automated detection analysis of SATD in R programming, specifically for R packages.&lt;/li&gt;
+&lt;li&gt;Likewise, PTMs for SATD detection have not been used before.&lt;/li&gt;
+&lt;li&gt;An augmented corpus (from 8 to 16) of plausible causes of SATD,  extracted from 1,345 comments. It expands on previously proposed categories and is publicly shared.&lt;/li&gt;
+&lt;li&gt;The automated detection of 12 types of SATD compared to 5 types in other SATD studies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;This study is partly supported by the Natural Sciences and Engineering Research Council of Canada, RGPIN-2021-04232 and DGECR-2021-00283 at the University of Saskatchewan, and RGPIN-2019-05175 at the University of British Columbia. We thank ANU for the open access support.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@Article{Sharma2022,
+author={Sharma, Rishab
+and Shahbazi, Ramin
+and Fard, Fatemeh H.
+and Codabux, Zadia
+and Vidoni, Melina},
+title=&amp;quot;{Self-Admitted Technical Debt in R: Detection and Causes}&amp;quot;,
+journal={Automated Software Engineering},
+year={2022},
+month={Aug},
+day={25},
+volume={29},
+number={2},
+pages={53},
+issn={1573-7535},
+doi={10.1007/s10515-022-00358-6},
+url={https://doi.org/10.1007/s10515-022-00358-6}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;venue-impact&#34;&gt;Venue Impact&lt;/h3&gt;
+&lt;p&gt;The following is the venue impact, according to Scimago Journal Ranking:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=24145&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=24145&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcelo Montagna on Dr Jinbin Zhu</title>
+    <link>/authors/marcelo-montagna/</link>
+    <description>Recent content in Marcelo Montagna on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/marcelo-montagna/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analysis, Design and Development of Advanced Planning Systems</title>
+      <link>/publication/2020-apsra/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020-apsra/</guid>
+      <description>&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@article{Vidoni2020,
+author = {Melina Vidoni and Jorge Marcelo Montagna and Aldo Vecchietti},
+title = {Analysis, design and development of advanced planning systems},
+journal = {International Journal of Industrial and Systems Engineering},
+volume = {36},
+number = {3},
+pages = {361-383},
+year  = {2020},
+publisher = {Inderscience Publishers},
+doi = {10.1504/IJISE.2020.110937},
+URL = {https://www.inderscience.com/info/inarticle.php?artid=110937}
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

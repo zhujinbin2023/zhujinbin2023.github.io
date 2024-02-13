@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Dr Jinbin Zhu</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Active Project</title>
+      <link>/tags/active-project/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/active-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recruiting Students</title>
+      <link>/tags/recruiting-students/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/recruiting-students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compbio-bioinfo</title>
+      <link>/tags/compbio-bioinfo/</link>
+      <pubDate>Tue, 05 Mar 2019 14:00:00 +0800</pubDate>
+      
+      <guid>/tags/compbio-bioinfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-science</title>
+      <link>/tags/data-science/</link>
+      <pubDate>Tue, 05 Mar 2019 14:00:00 +0800</pubDate>
+      
+      <guid>/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software-tools</title>
+      <link>/tags/software-tools/</link>
+      <pubDate>Tue, 05 Mar 2019 14:00:00 +0800</pubDate>
+      
+      <guid>/tags/software-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 13 Feb 2019 09:00:00 +0800</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>refs</title>
+      <link>/tags/refs/</link>
+      <pubDate>Thu, 24 Jan 2019 12:00:00 +0800</pubDate>
+      
+      <guid>/tags/refs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylogeny-evolution</title>
+      <link>/tags/phylogeny-evolution/</link>
+      <pubDate>Mon, 09 Jul 2018 15:50:00 +0800</pubDate>
+      
+      <guid>/tags/phylogeny-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stress-response</title>
+      <link>/tags/stress-response/</link>
+      <pubDate>Mon, 09 Jul 2018 15:50:00 +0800</pubDate>
+      
+      <guid>/tags/stress-response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Completed Project</title>
+      <link>/tags/completed-project/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/completed-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lipid-metabolism</title>
+      <link>/tags/lipid-metabolism/</link>
+      <pubDate>Thu, 05 Nov 2015 11:45:00 +0800</pubDate>
+      
+      <guid>/tags/lipid-metabolism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math-modeling</title>
+      <link>/tags/math-modeling/</link>
+      <pubDate>Fri, 31 Oct 2014 13:00:00 +0800</pubDate>
+      
+      <guid>/tags/math-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>host/pathogen</title>
+      <link>/tags/host/pathogen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/host/pathogen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

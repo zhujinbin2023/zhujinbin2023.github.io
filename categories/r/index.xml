@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Dr Jinbin Zhu</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on Dr Jinbin Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jinbin Zhu 2021</copyright>
+    <lastBuildDate>Tue, 05 Mar 2019 14:00:00 +0800</lastBuildDate>
+    
+	    <atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Tidyverse for Genomics workshop</title>
+      <link>/new/2019-iitm/</link>
+      <pubDate>Tue, 05 Mar 2019 14:00:00 +0800</pubDate>
+      
+      <guid>/new/2019-iitm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidyverse workshop</title>
+      <link>/new/2019-plb/</link>
+      <pubDate>Wed, 13 Feb 2019 09:00:00 +0800</pubDate>
+      
+      <guid>/new/2019-plb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
+      <link>/new/2018-rlel-tidydata/</link>
+      <pubDate>Mon, 05 Nov 2018 18:00:00 +0800</pubDate>
+      
+      <guid>/new/2018-rlel-tidydata/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Workshop material: &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://bit.ly/rlel-20181105&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
+      <link>/new/2018-rlel-dataviz/</link>
+      <pubDate>Mon, 08 Oct 2018 18:00:00 +0800</pubDate>
+      
+      <guid>/new/2018-rlel-dataviz/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Workshop material: &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181008-workshop-dataviz&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://drive.google.com/drive/folders/1tSrhZ_TymJfxeZbe8hAdtPjcmhoeAJls?usp=sharing&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
